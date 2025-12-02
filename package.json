@@ -1,0 +1,17 @@
+{
+  "name": "analisador-precos-ia-ml",
+  "version": "1.0.0",
+  "description": "API de Inteligência de Mercado",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.79",
+    "@langchain/google-genai": "^0.1.12",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "node-fetch": "^2.7.0"
+  }
+}
