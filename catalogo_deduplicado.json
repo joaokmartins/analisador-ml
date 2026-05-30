@@ -96,18 +96,6 @@
     ]
   },
   {
-    "nome do produto": "Lixadeira de Unhas Profissional Recarregável Bivolt",
-    "é kit": false,
-    "categoria do produto": "SAÚDE E BELEZA",
-    "código do produto": "Q-2739",
-    "preço do produto": "R$ 135,00",
-    "titulos_otimizados_ia": [
-      "Lixadeira de Unhas Profissional Recarregável",
-      "Lixadeira de Unhas Elétrica Bivolt",
-      "Lixadeira de Unhas Profissional Portátil"
-    ]
-  },
-  {
     "nome do produto": "Removedor de Calos Portátil Recarregável",
     "é kit": false,
     "categoria do produto": "SAÚDE E BELEZA",
@@ -312,30 +300,6 @@
     ]
   },
   {
-    "nome do produto": "Máquina de Cortar Cabelo e Barba",
-    "é kit": false,
-    "categoria do produto": "SAÚDE E BELEZA",
-    "código do produto": "Q-3849",
-    "preço do produto": "R$ 20,00",
-    "titulos_otimizados_ia": [
-      "Máquina de Cortar Cabelo e Barba Prata",
-      "Máquina de Cortar Cabelo e Barba Elétrica",
-      "Máquina de Cortar Cabelo e Barba Profissional"
-    ]
-  },
-  {
-    "nome do produto": "Máquina de Cortar Cabelo e Barba",
-    "é kit": false,
-    "categoria do produto": "SAÚDE E BELEZA",
-    "código do produto": "Q-3850",
-    "preço do produto": "R$ 20,00",
-    "titulos_otimizados_ia": [
-      "Máquina de Cortar Cabelo e Barba Prata",
-      "Máquina de Cortar Cabelo e Barba Elétrica",
-      "Máquina de Cortar Cabelo e Barba Profissional"
-    ]
-  },
-  {
     "nome do produto": "Máquina de Cortar Cabelo Dragão USB",
     "é kit": false,
     "categoria do produto": "SAÚDE E BELEZA",
@@ -435,18 +399,6 @@
     "nome do produto": "Espelho com LED",
     "é kit": false,
     "categoria do produto": "SAÚDE E BELEZA",
-    "código do produto": "Q-4352",
-    "preço do produto": "R$ 18,00",
-    "titulos_otimizados_ia": [
-      "Espelho com LED Rosa",
-      "Espelho de Mesa com LED",
-      "Espelho com Iluminação LED"
-    ]
-  },
-  {
-    "nome do produto": "Espelho com LED",
-    "é kit": false,
-    "categoria do produto": "SAÚDE E BELEZA",
     "código do produto": "Q-4353",
     "preço do produto": "R$ 13,50",
     "titulos_otimizados_ia": [
@@ -487,54 +439,6 @@
     "preço do produto": "R$ 70,00",
     "titulos_otimizados_ia": [
       "Secador de Cabelo Preto 2200w",
-      "Secador de Cabelo Profissional",
-      "Secador de Cabelo com Jato Frio"
-    ]
-  },
-  {
-    "nome do produto": "Secador de Cabelo 2000w 110v",
-    "é kit": false,
-    "categoria do produto": "SAÚDE E BELEZA",
-    "código do produto": "X-0079",
-    "preço do produto": "R$ 68,00",
-    "titulos_otimizados_ia": [
-      "Secador de Cabelo Preto 2000w",
-      "Secador de Cabelo Profissional",
-      "Secador de Cabelo com Jato Frio"
-    ]
-  },
-  {
-    "nome do produto": "Secador de Cabelo 2000w 110v",
-    "é kit": false,
-    "categoria do produto": "SAÚDE E BELEZA",
-    "código do produto": "X-0080",
-    "preço do produto": "R$ 65,00",
-    "titulos_otimizados_ia": [
-      "Secador de Cabelo Preto 2000w",
-      "Secador de Cabelo Profissional",
-      "Secador de Cabelo com Jato Frio"
-    ]
-  },
-  {
-    "nome do produto": "Secador de Cabelo 2000w 110v",
-    "é kit": false,
-    "categoria do produto": "SAÚDE E BELEZA",
-    "código do produto": "X-0081",
-    "preço do produto": "R$ 65,00",
-    "titulos_otimizados_ia": [
-      "Secador de Cabelo Preto 2000w",
-      "Secador de Cabelo Profissional",
-      "Secador de Cabelo com Jato Frio"
-    ]
-  },
-  {
-    "nome do produto": "Secador de Cabelo 2000w 110v",
-    "é kit": false,
-    "categoria do produto": "SAÚDE E BELEZA",
-    "código do produto": "X-0083",
-    "preço do produto": "R$ 65,00",
-    "titulos_otimizados_ia": [
-      "Secador de Cabelo Preto 2000w",
       "Secador de Cabelo Profissional",
       "Secador de Cabelo com Jato Frio"
     ]
@@ -780,18 +684,6 @@
     ]
   },
   {
-    "nome do produto": "Massageador Corporal",
-    "é kit": false,
-    "categoria do produto": "MASSAGEADORES",
-    "código do produto": "Q-3579",
-    "preço do produto": "R$ 58,00",
-    "titulos_otimizados_ia": [
-      "Massageador Corporal Branco",
-      "Massageador Elétrico Corporal",
-      "Massageador Portátil Corporal"
-    ]
-  },
-  {
     "nome do produto": "Massageador Elétrico Profissional",
     "é kit": false,
     "categoria do produto": "MASSAGEADORES",
@@ -1025,18 +917,6 @@
     "categoria do produto": "MASSAGEADORES",
     "código do produto": "Q-4110",
     "preço do produto": "R$ 33,00",
-    "titulos_otimizados_ia": [
-      "Massageador Íntimo Rosa",
-      "Massageador Elétrico Íntimo",
-      "Massageador Íntimo Portátil"
-    ]
-  },
-  {
-    "nome do produto": "Massageador Íntimo",
-    "é kit": false,
-    "categoria do produto": "MASSAGEADORES",
-    "código do produto": "Q-3952",
-    "preço do produto": "R$ 20,00",
     "titulos_otimizados_ia": [
       "Massageador Íntimo Rosa",
       "Massageador Elétrico Íntimo",
@@ -1380,18 +1260,6 @@
     ]
   },
   {
-    "nome do produto": "Tapete Escorredor de Louça em Silicone",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-2189",
-    "preço do produto": "R$ 16,00",
-    "titulos_otimizados_ia": [
-      "Tapete Escorredor de Louça em Silicone Azul",
-      "Tapete Escorredor de Louça Flexível",
-      "Tapete Escorredor de Louça Antiderrapante"
-    ]
-  },
-  {
     "nome do produto": "Bomba de Água",
     "é kit": false,
     "categoria do produto": "COZINHA",
@@ -1564,18 +1432,6 @@
     "é kit": false,
     "categoria do produto": "COZINHA",
     "código do produto": "Q-3222",
-    "preço do produto": "R$ 48,00",
-    "titulos_otimizados_ia": [
-      "Moedor de Café Automático Preto",
-      "Moedor de Café Elétrico",
-      "Moedor de Café Compacto"
-    ]
-  },
-  {
-    "nome do produto": "Moedor de Café Automático",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3250",
     "preço do produto": "R$ 48,00",
     "titulos_otimizados_ia": [
       "Moedor de Café Automático Preto",
@@ -1812,46 +1668,10 @@
     ]
   },
   {
-    "nome do produto": "Moedor de Pimenta Manual de Madeira",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-2419",
-    "preço do produto": "R$ 12,50",
-    "titulos_otimizados_ia": [
-      "Moedor de Pimenta Manual de Madeira 8cm",
-      "Moedor de Pimenta de Madeira",
-      "Moedor de Pimenta Clássico"
-    ]
-  },
-  {
     "nome do produto": "Moedor de Pimenta",
     "é kit": false,
     "categoria do produto": "COZINHA",
     "código do produto": "Q-3090",
-    "preço do produto": "R$ 22,00",
-    "titulos_otimizados_ia": [
-      "Moedor de Pimenta Manual de Madeira 21,5cm",
-      "Moedor de Pimenta Tradicional",
-      "Moedor de Pimenta de Madeira"
-    ]
-  },
-  {
-    "nome do produto": "Moedor de Pimenta",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3093",
-    "preço do produto": "R$ 20,00",
-    "titulos_otimizados_ia": [
-      "Moedor de Pimenta Manual de Madeira 16,5cm",
-      "Moedor de Pimenta Tradicional",
-      "Moedor de Pimenta de Madeira"
-    ]
-  },
-  {
-    "nome do produto": "Moedor de Pimenta",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3094",
     "preço do produto": "R$ 22,00",
     "titulos_otimizados_ia": [
       "Moedor de Pimenta Manual de Madeira 21,5cm",
@@ -2152,18 +1972,6 @@
     "é kit": false,
     "categoria do produto": "COZINHA",
     "código do produto": "Q-3787",
-    "preço do produto": "R$ 10,00",
-    "titulos_otimizados_ia": [
-      "Acendedor de Fogão Flexível",
-      "Acendedor de Fogão Elétrico",
-      "Acendedor de Fogão Portátil"
-    ]
-  },
-  {
-    "nome do produto": "Acendedor de Fogão Flexível",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-2723",
     "preço do produto": "R$ 10,00",
     "titulos_otimizados_ia": [
       "Acendedor de Fogão Flexível",
@@ -2604,30 +2412,6 @@
     ]
   },
   {
-    "nome do produto": "Pote de Lata",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4206",
-    "preço do produto": "R$ 10,00",
-    "titulos_otimizados_ia": [
-      "Pote de Lata para Açúcar",
-      "Pote de Lata para Café",
-      "Pote de Lata Decorativo"
-    ]
-  },
-  {
-    "nome do produto": "Pote Hermético",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3988",
-    "preço do produto": "R$ 15,00",
-    "titulos_otimizados_ia": [
-      "Pote Hermético Retangular Bege",
-      "Pote Hermético para Alimentos",
-      "Pote Hermético com Tampa"
-    ]
-  },
-  {
     "nome do produto": "Pote Hermético",
     "é kit": false,
     "categoria do produto": "COZINHA",
@@ -2652,42 +2436,6 @@
     ]
   },
   {
-    "nome do produto": "Avental Estampado Estampas Diversas",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3991",
-    "preço do produto": "R$ 6,50",
-    "titulos_otimizados_ia": [
-      "Avental Estampado com Desenhos",
-      "Avental de Cozinha Estampado",
-      "Avental Estampado Colorido"
-    ]
-  },
-  {
-    "nome do produto": "Avental Estampado Estampas Diversas",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3990",
-    "preço do produto": "R$ 6,50",
-    "titulos_otimizados_ia": [
-      "Avental Estampado com Desenhos",
-      "Avental de Cozinha Estampado",
-      "Avental Estampado Colorido"
-    ]
-  },
-  {
-    "nome do produto": "Avental Estampado Estampas Diversas",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3993",
-    "preço do produto": "R$ 6,50",
-    "titulos_otimizados_ia": [
-      "Avental Estampado com Desenhos",
-      "Avental de Cozinha Estampado",
-      "Avental Estampado Colorido"
-    ]
-  },
-  {
     "nome do produto": "Luva Térmica e Descanso de Mesa Estampas Diversas",
     "é kit": false,
     "categoria do produto": "COZINHA",
@@ -2697,30 +2445,6 @@
       "Luva Térmica e Descanso de Mesa Estampados",
       "Kit Luva Térmica e Descanso de Mesa",
       "Acessórios de Cozinha Estampados"
-    ]
-  },
-  {
-    "nome do produto": "Avental Estampado Estampas Diversas",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3994",
-    "preço do produto": "R$ 6,50",
-    "titulos_otimizados_ia": [
-      "Avental Estampado Colorido para Cozinha",
-      "Avental de Tecido com Estampas Variadas",
-      "Avental de Proteção para Cozinha"
-    ]
-  },
-  {
-    "nome do produto": "Avental Estampado Estampas Diversas",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3995",
-    "preço do produto": "R$ 6,50",
-    "titulos_otimizados_ia": [
-      "Avental Estampado Colorido para Cozinha",
-      "Avental de Tecido com Estampas Variadas",
-      "Avental de Proteção para Cozinha"
     ]
   },
   {
@@ -2760,54 +2484,6 @@
     ]
   },
   {
-    "nome do produto": "Porta Papel",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3999",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Porta Papel Toalha de Bancada",
-      "Suporte para Papel Toalha de Cozinha",
-      "Porta Papel de Metal"
-    ]
-  },
-  {
-    "nome do produto": "Porta Guardanapos",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4003",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Porta Guardanapos de Metal Dourado",
-      "Suporte para Guardanapos de Mesa",
-      "Porta Guardanapos Retangular"
-    ]
-  },
-  {
-    "nome do produto": "Porta Guardanapos",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4001",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Porta Guardanapos de Metal Preto Fosco",
-      "Suporte para Guardanapos de Mesa",
-      "Porta Guardanapos Quadrado"
-    ]
-  },
-  {
-    "nome do produto": "Porta Guardanapos",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4002",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Porta Guardanapos de Metal Prata",
-      "Suporte para Guardanapos de Mesa",
-      "Porta Guardanapos Redondo"
-    ]
-  },
-  {
     "nome do produto": "Porta Guardanapo (Variados)",
     "é kit": false,
     "categoria do produto": "COZINHA",
@@ -2817,30 +2493,6 @@
       "Porta Guardanapos de Metal Variados",
       "Suporte para Guardanapos de Mesa",
       "Porta Guardanapos Decorado"
-    ]
-  },
-  {
-    "nome do produto": "Porta Guardanapos",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4004",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Porta Guardanapos de Metal Dourado",
-      "Suporte para Guardanapos de Mesa",
-      "Porta Guardanapos Retangular"
-    ]
-  },
-  {
-    "nome do produto": "Porta Guardanapos",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4005",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Porta Guardanapos de Metal Prata",
-      "Suporte para Guardanapos de Mesa",
-      "Porta Guardanapos Quadrado"
     ]
   },
   {
@@ -2868,18 +2520,6 @@
     ]
   },
   {
-    "nome do produto": "Porta Guardanapo com Base de Madeira",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3481",
-    "preço do produto": "R$ 10,50",
-    "titulos_otimizados_ia": [
-      "Porta Guardanapos com Base de Madeira",
-      "Suporte para Guardanapos de Mesa",
-      "Porta Guardanapos de Madeira e Metal"
-    ]
-  },
-  {
     "nome do produto": "Fruteira Metálica",
     "é kit": false,
     "categoria do produto": "COZINHA",
@@ -2889,18 +2529,6 @@
       "Fruteira de Metal Quadrada",
       "Cesta de Frutas Metálica",
       "Fruteira de Bancada"
-    ]
-  },
-  {
-    "nome do produto": "Fruteira Metálica",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3487",
-    "preço do produto": "R$ 19,00",
-    "titulos_otimizados_ia": [
-      "Fruteira de Metal Redonda",
-      "Cesta de Frutas Metálica",
-      "Fruteira de Mesa"
     ]
   },
   {
@@ -2928,42 +2556,6 @@
     ]
   },
   {
-    "nome do produto": "Fruteira Metálica",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3772",
-    "preço do produto": "R$ 13,00",
-    "titulos_otimizados_ia": [
-      "Fruteira de Metal Quadrada",
-      "Cesta de Frutas Metálica",
-      "Fruteira de Bancada"
-    ]
-  },
-  {
-    "nome do produto": "Fruteira Metálica",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3773",
-    "preço do produto": "R$ 13,00",
-    "titulos_otimizados_ia": [
-      "Fruteira de Metal Quadrada",
-      "Cesta de Frutas Metálica",
-      "Fruteira de Bancada"
-    ]
-  },
-  {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4009",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento de Metal",
-      "Cesta Organizadora para Cozinha",
-      "Cesto de Metal Prata"
-    ]
-  },
-  {
     "nome do produto": "Cestos de Armazenamento",
     "é kit": false,
     "categoria do produto": "COZINHA",
@@ -2973,18 +2565,6 @@
       "Conjunto de Cestos de Armazenamento",
       "Cestas Organizadoras para Cozinha",
       "Cestos de Metal Preto"
-    ]
-  },
-  {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4008",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento de Metal",
-      "Cesta Organizadora para Cozinha",
-      "Cesto de Metal Dourado"
     ]
   },
   {
@@ -3012,18 +2592,6 @@
     ]
   },
   {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4011",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento de Metal",
-      "Cesta Organizadora para Cozinha",
-      "Cesto de Metal Preto"
-    ]
-  },
-  {
     "nome do produto": "Escorredor de Louças 2 Níveis",
     "é kit": false,
     "categoria do produto": "COZINHA",
@@ -3032,30 +2600,6 @@
     "titulos_otimizados_ia": [
       "Escorredor de Louças de Metal com 2 Níveis",
       "Suporte Duplo para Louças",
-      "Escorredor de Pratos e Copos"
-    ]
-  },
-  {
-    "nome do produto": "Escorredor de Louças",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4013",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Escorredor de Louças de Metal",
-      "Suporte para Louças",
-      "Escorredor de Pratos e Copos"
-    ]
-  },
-  {
-    "nome do produto": "Escorredor de Louças",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4014",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Escorredor de Louças de Metal",
-      "Suporte para Louças",
       "Escorredor de Pratos e Copos"
     ]
   },
@@ -3120,34 +2664,10 @@
     ]
   },
   {
-    "nome do produto": "Escorredor de Pia",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3491",
-    "preço do produto": "R$ 80,00",
-    "titulos_otimizados_ia": [
-      "Escorredor de Pia de Metal",
-      "Suporte para Louças de Pia",
-      "Escorredor de Pratos para Pia"
-    ]
-  },
-  {
     "nome do produto": "Embalagem para Vedação",
     "é kit": false,
     "categoria do produto": "COZINHA",
     "código do produto": "Q-4083-1",
-    "preço do produto": "R$ 0,20",
-    "titulos_otimizados_ia": [
-      "Embalagem Plástica para Vedação",
-      "Saco para Máquina de Vedação",
-      "Filme para Embalagem a Vácuo"
-    ]
-  },
-  {
-    "nome do produto": "Embalagem para Vedação",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4084-1",
     "preço do produto": "R$ 0,20",
     "titulos_otimizados_ia": [
       "Embalagem Plástica para Vedação",
@@ -3204,66 +2724,6 @@
     ]
   },
   {
-    "nome do produto": "Balde de Gelo 22,5cm x 21,5cm",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3833-1",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Balde de Gelo de Metal",
-      "Recipiente para Gelo",
-      "Balde de Gelo com Alças"
-    ]
-  },
-  {
-    "nome do produto": "Balde de Gelo 22,5cm x 21,5cm",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3833-2",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Balde de Gelo de Metal",
-      "Recipiente para Gelo",
-      "Balde de Gelo com Alças"
-    ]
-  },
-  {
-    "nome do produto": "Balde de Gelo 22,5cm x 21,5cm",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3834-1",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Balde de Gelo de Metal",
-      "Recipiente para Gelo",
-      "Balde de Gelo com Alças"
-    ]
-  },
-  {
-    "nome do produto": "Balde de Gelo 22,5cm x 21,5cm",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3834-2",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Balde de Gelo de Metal",
-      "Recipiente para Gelo",
-      "Balde de Gelo com Alças"
-    ]
-  },
-  {
-    "nome do produto": "Balde de Gelo 22,5cm x 21,5cm",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3834-3",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Balde de Gelo de Metal",
-      "Recipiente para Gelo",
-      "Balde de Gelo com Alças"
-    ]
-  },
-  {
     "nome do produto": "Balde de Gelo 19cm x 17cm",
     "é kit": false,
     "categoria do produto": "COZINHA",
@@ -3288,58 +2748,10 @@
     ]
   },
   {
-    "nome do produto": "Jarra de Plástico 1500ml",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3979",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Jarra de Plástico Transparente 1.5L",
-      "Jarra para Suco ou Água",
-      "Jarra de Plástico com Tampa"
-    ]
-  },
-  {
-    "nome do produto": "Jarra de Plástico 1500ml",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3980",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Jarra de Plástico Colorida 1.5L",
-      "Jarra para Suco ou Água",
-      "Jarra de Plástico com Tampa"
-    ]
-  },
-  {
     "nome do produto": "Jarra de Plástico",
     "é kit": false,
     "categoria do produto": "COZINHA",
     "código do produto": "Q-3981",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Jarra de Plástico Transparente",
-      "Jarra para Suco ou Água",
-      "Jarra de Plástico com Tampa"
-    ]
-  },
-  {
-    "nome do produto": "Jarra de Plástico",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3982",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Jarra de Plástico Transparente",
-      "Jarra para Suco ou Água",
-      "Jarra de Plástico com Tampa"
-    ]
-  },
-  {
-    "nome do produto": "Jarra de Plástico",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-3983",
     "preço do produto": "EM BREVE",
     "titulos_otimizados_ia": [
       "Jarra de Plástico Transparente",
@@ -3396,18 +2808,6 @@
     ]
   },
   {
-    "nome do produto": "Suporte Dispenser de Parede Papel Toalha, Plástico Filme e Alumínio",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4282",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Dispenser de Parede para Papel Toalha, Filme e Alumínio",
-      "Suporte Triplo para Cozinha",
-      "Organizador de Parede para Papel Toalha"
-    ]
-  },
-  {
     "nome do produto": "Suporte de Detergente e Esponja",
     "é kit": false,
     "categoria do produto": "COZINHA",
@@ -3456,30 +2856,6 @@
     ]
   },
   {
-    "nome do produto": "Moedor de Carne Automático",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "X-0060",
-    "preço do produto": "R$ 205,00",
-    "titulos_otimizados_ia": [
-      "Moedor de Carne Elétrico Automático",
-      "Máquina de Moer Carne Elétrica",
-      "Moedor de Carne Profissional"
-    ]
-  },
-  {
-    "nome do produto": "Moedor de Carne Automático",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "X-0061",
-    "preço do produto": "R$ 205,00",
-    "titulos_otimizados_ia": [
-      "Moedor de Carne Elétrico Automático",
-      "Máquina de Moer Carne Elétrica",
-      "Moedor de Carne Profissional"
-    ]
-  },
-  {
     "nome do produto": "Cooktop de Indução com 2 Bocas 1800W 110v 29cm x 52cm",
     "é kit": false,
     "categoria do produto": "COZINHA",
@@ -3492,58 +2868,10 @@
     ]
   },
   {
-    "nome do produto": "Cooktop de Indução com 2 Bocas 1800W 110v 29cm x 52cm",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "X-0065",
-    "preço do produto": "R$ 485,00",
-    "titulos_otimizados_ia": [
-      "Cooktop de Indução Preto 2 Bocas 110V",
-      "Fogão de Indução Compacto",
-      "Cooktop de Vidro Preto"
-    ]
-  },
-  {
-    "nome do produto": "Cooktop de Indução com 2 Bocas 1800W 110v 29cm x 52cm",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "X-0066",
-    "preço do produto": "R$ 485,00",
-    "titulos_otimizados_ia": [
-      "Cooktop de Indução Preto 2 Bocas 110V",
-      "Fogão de Indução Compacto",
-      "Cooktop de Vidro Preto"
-    ]
-  },
-  {
     "nome do produto": "Cooktop de Indução com 2 Bocas 1500W 220v 29cm x 52cm",
     "é kit": false,
     "categoria do produto": "COZINHA",
     "código do produto": "X-0067",
-    "preço do produto": "R$ 485,00",
-    "titulos_otimizados_ia": [
-      "Cooktop de Indução Preto 2 Bocas 220V",
-      "Fogão de Indução Compacto",
-      "Cooktop de Vidro Preto"
-    ]
-  },
-  {
-    "nome do produto": "Cooktop de Indução com 2 Bocas 1500W 220v 29cm x 52cm",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "X-0068",
-    "preço do produto": "R$ 485,00",
-    "titulos_otimizados_ia": [
-      "Cooktop de Indução Preto 2 Bocas 220V",
-      "Fogão de Indução Compacto",
-      "Cooktop de Vidro Preto"
-    ]
-  },
-  {
-    "nome do produto": "Cooktop de Indução com 2 Bocas 1500W 220v 29cm x 52cm",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "X-0069",
     "preço do produto": "R$ 485,00",
     "titulos_otimizados_ia": [
       "Cooktop de Indução Preto 2 Bocas 220V",
@@ -3571,18 +2899,6 @@
     "preço do produto": "R$ 408,00",
     "titulos_otimizados_ia": [
       "Cooktop Vitrocerâmico Preto 2 Bocas 220V",
-      "Fogão Vitrocerâmico Radiante",
-      "Cooktop de Vidro Preto"
-    ]
-  },
-  {
-    "nome do produto": "Cooktop de Vitrocerâmica/Radiante com 2 Bocas 1500W 110v 40cm x 67cm",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "X-0072",
-    "preço do produto": "R$ 408,00",
-    "titulos_otimizados_ia": [
-      "Cooktop Vitrocerâmico Preto 2 Bocas 110V",
       "Fogão Vitrocerâmico Radiante",
       "Cooktop de Vidro Preto"
     ]
@@ -3633,18 +2949,6 @@
       "Cafeteira Elétrica Portátil 3 em 1",
       "Máquina de Café Portátil",
       "Cafeteira Elétrica Compacta"
-    ]
-  },
-  {
-    "nome do produto": "Balança Digital",
-    "é kit": false,
-    "categoria do produto": "COZINHA",
-    "código do produto": "Q-4280",
-    "preço do produto": "R$ 36,00",
-    "titulos_otimizados_ia": [
-      "Balança Digital de Cozinha Prata",
-      "Balança de Precisão para Alimentos",
-      "Balança Eletrônica"
     ]
   },
   {
@@ -3856,18 +3160,6 @@
     "é kit": false,
     "categoria do produto": "VINHOS",
     "código do produto": "Q-4507",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Abridor de Vinho Elétrico Automático",
-      "Abridor de Garrafas de Vinho Elétrico",
-      "Abridor de Vinho Recarregável"
-    ]
-  },
-  {
-    "nome do produto": "Abridor de Garrafas de Vinho Automático",
-    "é kit": false,
-    "categoria do produto": "VINHOS",
-    "código do produto": "Q-2709",
     "preço do produto": "ESGOTADO",
     "titulos_otimizados_ia": [
       "Abridor de Vinho Elétrico Automático",
@@ -4224,18 +3516,6 @@
     ]
   },
   {
-    "nome do produto": "Kit Talher Dourado Gravado 25 Uni",
-    "é kit": false,
-    "categoria do produto": "TALHERES",
-    "código do produto": "Q-3304",
-    "preço do produto": "R$ 58,00",
-    "titulos_otimizados_ia": [
-      "Kit Talheres Dourado Gravado 25 Peças",
-      "Conjunto de Talheres Dourado Gravado",
-      "Talheres de Aço Inox Dourado"
-    ]
-  },
-  {
     "nome do produto": "Kit Talher Prata Gravado 25 Uni",
     "é kit": false,
     "categoria do produto": "TALHERES",
@@ -4245,30 +3525,6 @@
       "Kit Talheres Prata Gravado 25 Peças",
       "Conjunto de Talheres Prata Gravado",
       "Talheres de Aço Inox Prata"
-    ]
-  },
-  {
-    "nome do produto": "Kit Talher Dourado Gravado 25 Uni",
-    "é kit": false,
-    "categoria do produto": "TALHERES",
-    "código do produto": "Q-3153",
-    "preço do produto": "R$ 52,00",
-    "titulos_otimizados_ia": [
-      "Kit Talheres Dourado Gravado 25 Peças",
-      "Conjunto de Talheres Dourado Gravado",
-      "Talheres de Aço Inox Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Kit Talher Dourado Gravado 25 Uni",
-    "é kit": false,
-    "categoria do produto": "TALHERES",
-    "código do produto": "Q-3312",
-    "preço do produto": "R$ 58,00",
-    "titulos_otimizados_ia": [
-      "Kit Talheres Dourado Gravado 25 Peças",
-      "Conjunto de Talheres Dourado Gravado",
-      "Talheres de Aço Inox Dourado"
     ]
   },
   {
@@ -4587,18 +3843,6 @@
     "nome do produto": "Panela Elétrica de Ovos",
     "é kit": false,
     "categoria do produto": "MINI GRILL & PANELAS ELÉTRICAS",
-    "código do produto": "X-0056-2",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Panela Elétrica de Ovos Rosa",
-      "Cozedor de Ovos Elétrico",
-      "Máquina de Cozinhar Ovos"
-    ]
-  },
-  {
-    "nome do produto": "Panela Elétrica de Ovos",
-    "é kit": false,
-    "categoria do produto": "MINI GRILL & PANELAS ELÉTRICAS",
     "código do produto": "X-0057",
     "preço do produto": "R$ 40,00",
     "titulos_otimizados_ia": [
@@ -4627,18 +3871,6 @@
     "preço do produto": "R$ 425,00",
     "titulos_otimizados_ia": [
       "Conjunto de Panelas Preto 8 Peças",
-      "Jogo de Panelas Antiaderente",
-      "Panelas com Tampa"
-    ]
-  },
-  {
-    "nome do produto": "Conjunto de Panelas de 8 Peças",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "CH-0002",
-    "preço do produto": "R$ 425,00",
-    "titulos_otimizados_ia": [
-      "Conjunto de Panelas Branco 8 Peças",
       "Jogo de Panelas Antiaderente",
       "Panelas com Tampa"
     ]
@@ -4675,18 +3907,6 @@
     "preço do produto": "R$ 330,00",
     "titulos_otimizados_ia": [
       "Conjunto de Panelas Preto 6 Peças",
-      "Jogo de Panelas Antiaderente",
-      "Panelas com Tampa"
-    ]
-  },
-  {
-    "nome do produto": "Conjunto de Panelas de 8 Peças",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "CH-0004",
-    "preço do produto": "R$ 425,00",
-    "titulos_otimizados_ia": [
-      "Conjunto de Panelas Preto 8 Peças",
       "Jogo de Panelas Antiaderente",
       "Panelas com Tampa"
     ]
@@ -4776,30 +3996,6 @@
     ]
   },
   {
-    "nome do produto": "Conjunto de Panelas de 6 Peças",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "CH-0007-2",
-    "preço do produto": "R$ 239,99",
-    "titulos_otimizados_ia": [
-      "Conjunto de Panelas Marrom 6 Peças",
-      "Jogo de Panelas Antiaderente",
-      "Panelas com Tampa"
-    ]
-  },
-  {
-    "nome do produto": "Conjunto de Panelas de 6 Peças",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "CH-0007-3",
-    "preço do produto": "R$ 239,99",
-    "titulos_otimizados_ia": [
-      "Conjunto de Panelas Rosa 6 Peças",
-      "Jogo de Panelas Antiaderente",
-      "Panelas com Tampa"
-    ]
-  },
-  {
     "nome do produto": "Conjunto de Panelas de 8 Peças",
     "é kit": false,
     "categoria do produto": "PANELAS",
@@ -4807,30 +4003,6 @@
     "preço do produto": "R$ 259,99",
     "titulos_otimizados_ia": [
       "Conjunto de Panelas Rosa 8 Peças",
-      "Jogo de Panelas Antiaderente",
-      "Panelas com Tampa"
-    ]
-  },
-  {
-    "nome do produto": "Conjunto de Panelas de 8 Peças",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "CH-0006-2",
-    "preço do produto": "R$ 259,99",
-    "titulos_otimizados_ia": [
-      "Conjunto de Panelas Marrom 8 Peças",
-      "Jogo de Panelas Antiaderente",
-      "Panelas com Tampa"
-    ]
-  },
-  {
-    "nome do produto": "Conjunto de Panelas de 8 Peças",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "CH-0006-3",
-    "preço do produto": "R$ 259,99",
-    "titulos_otimizados_ia": [
-      "Conjunto de Panelas Verde 8 Peças",
       "Jogo de Panelas Antiaderente",
       "Panelas com Tampa"
     ]
@@ -4968,34 +4140,10 @@
     ]
   },
   {
-    "nome do produto": "Panela Frigideira",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "CH-0023",
-    "preço do produto": "R$ 48,00",
-    "titulos_otimizados_ia": [
-      "Panela Frigideira Bege",
-      "Frigideira Antiaderente",
-      "Panela Antiaderente"
-    ]
-  },
-  {
     "nome do produto": "Panela Frigideira Bege",
     "é kit": false,
     "categoria do produto": "PANELAS",
     "código do produto": "CH-0024",
-    "preço do produto": "R$ 48,00",
-    "titulos_otimizados_ia": [
-      "Panela Frigideira Bege",
-      "Frigideira Antiaderente",
-      "Panela Antiaderente"
-    ]
-  },
-  {
-    "nome do produto": "Panela Frigideira Bege",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "CH-0026",
     "preço do produto": "R$ 48,00",
     "titulos_otimizados_ia": [
       "Panela Frigideira Bege",
@@ -5025,18 +4173,6 @@
       "Frigideira Quadrada Antiaderente",
       "Frigideira de Alumínio Quadrada",
       "Frigideira para Grelhar"
-    ]
-  },
-  {
-    "nome do produto": "Frigideira 4 Partes com Desenho",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "Q-3838",
-    "preço do produto": "R$ 35,00",
-    "titulos_otimizados_ia": [
-      "Frigideira Antiaderente 4 Partes com Desenho",
-      "Frigideira para Ovos e Panquecas",
-      "Frigideira com Divisórias Decorada"
     ]
   },
   {
@@ -5100,30 +4236,6 @@
     ]
   },
   {
-    "nome do produto": "Panela Frigideira",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "CH-0019",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Panela Frigideira Cinza",
-      "Frigideira Antiaderente",
-      "Panela Antiaderente"
-    ]
-  },
-  {
-    "nome do produto": "Frigideira 4 Partes com Desenho 19cm",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "Q-3942",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Frigideira Antiaderente 4 Partes com Desenho 19cm",
-      "Frigideira para Ovos e Panquecas",
-      "Frigideira com Divisórias Decorada"
-    ]
-  },
-  {
     "nome do produto": "Panela de Pressão",
     "é kit": false,
     "categoria do produto": "PANELAS",
@@ -5131,18 +4243,6 @@
     "preço do produto": "R$ 165,00",
     "titulos_otimizados_ia": [
       "Panela de Pressão 4 Litros",
-      "Panela de Pressão de Alumínio",
-      "Panela de Pressão Segura"
-    ]
-  },
-  {
-    "nome do produto": "Panela de Pressão",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "Q-4475",
-    "preço do produto": "R$ 165,00",
-    "titulos_otimizados_ia": [
-      "Panela de Pressão 5 Litros",
       "Panela de Pressão de Alumínio",
       "Panela de Pressão Segura"
     ]
@@ -5160,34 +4260,10 @@
     ]
   },
   {
-    "nome do produto": "Panela de Pressão de Aço Inoxdável",
-    "é kit": false,
-    "categoria do produto": "PANELAS",
-    "código do produto": "Q-4473",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Panela de Pressão de Aço Inox 7 Litros",
-      "Panela de Pressão Premium",
-      "Panela de Pressão Segura"
-    ]
-  },
-  {
     "nome do produto": "Colete de Compressão",
     "é kit": false,
     "categoria do produto": "CINTAS E FITNESS",
     "código do produto": "Q-2692",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Colete de Compressão Masculino",
-      "Colete Modelador",
-      "Colete Fitness"
-    ]
-  },
-  {
-    "nome do produto": "Colete de Compressão",
-    "é kit": false,
-    "categoria do produto": "CINTAS E FITNESS",
-    "código do produto": "Q-2693",
     "preço do produto": "ESGOTADO",
     "titulos_otimizados_ia": [
       "Colete de Compressão Masculino",
@@ -5247,18 +4323,6 @@
     "nome do produto": "Cinta Modeladora Feminina",
     "é kit": false,
     "categoria do produto": "CINTAS E FITNESS",
-    "código do produto": "Q-3678-2",
-    "preço do produto": "R$ 22,00",
-    "titulos_otimizados_ia": [
-      "Cinta Modeladora Feminina Bege",
-      "Cinta de Compressão para Modelar",
-      "Cinta Fitness"
-    ]
-  },
-  {
-    "nome do produto": "Cinta Modeladora Feminina",
-    "é kit": false,
-    "categoria do produto": "CINTAS E FITNESS",
     "código do produto": "Q-3679-2",
     "preço do produto": "R$ 20,50",
     "titulos_otimizados_ia": [
@@ -5280,18 +4344,6 @@
     ]
   },
   {
-    "nome do produto": "Cinta Modeladora Feminina",
-    "é kit": false,
-    "categoria do produto": "CINTAS E FITNESS",
-    "código do produto": "Q-3679-3",
-    "preço do produto": "R$ 19,80",
-    "titulos_otimizados_ia": [
-      "Cinta Modeladora Feminina Marrom",
-      "Cinta de Compressão para Modelar",
-      "Cinta Fitness"
-    ]
-  },
-  {
     "nome do produto": "Body com Cinta Modeladora",
     "é kit": false,
     "categoria do produto": "CINTAS E FITNESS",
@@ -5299,42 +4351,6 @@
     "preço do produto": "R$ 25,00",
     "titulos_otimizados_ia": [
       "Body com Cinta Modeladora Bege",
-      "Body Modelador",
-      "Roupa Íntima Modeladora"
-    ]
-  },
-  {
-    "nome do produto": "Body com Cinta Modeladora",
-    "é kit": false,
-    "categoria do produto": "CINTAS E FITNESS",
-    "código do produto": "Q-4275-3",
-    "preço do produto": "R$ 25,00",
-    "titulos_otimizados_ia": [
-      "Body com Cinta Modeladora Marrom",
-      "Body Modelador",
-      "Roupa Íntima Modeladora"
-    ]
-  },
-  {
-    "nome do produto": "Body com Cinta Modeladora",
-    "é kit": false,
-    "categoria do produto": "CINTAS E FITNESS",
-    "código do produto": "Q-4275-2",
-    "preço do produto": "R$ 25,00",
-    "titulos_otimizados_ia": [
-      "Body com Cinta Modeladora Rose",
-      "Body Modelador",
-      "Roupa Íntima Modeladora"
-    ]
-  },
-  {
-    "nome do produto": "Body com Cinta Modeladora",
-    "é kit": false,
-    "categoria do produto": "CINTAS E FITNESS",
-    "código do produto": "Q-4275-4",
-    "preço do produto": "R$ 25,00",
-    "titulos_otimizados_ia": [
-      "Body com Cinta Modeladora Preto",
       "Body Modelador",
       "Roupa Íntima Modeladora"
     ]
@@ -5736,18 +4752,6 @@
     ]
   },
   {
-    "nome do produto": "Joelheira de Compressão",
-    "é kit": false,
-    "categoria do produto": "CINTAS E FITNESS",
-    "código do produto": "Q-4208",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Joelheira de Compressão Esportiva",
-      "Joelheira de Compressão para Exercícios",
-      "Joelheira de Compressão Terapêutica"
-    ]
-  },
-  {
     "nome do produto": "Cotoveleira de Compressão",
     "é kit": false,
     "categoria do produto": "CINTAS E FITNESS",
@@ -5793,18 +4797,6 @@
       "Faixa de Cotovelo de Compressão",
       "Faixa de Compressão para Cotovelo",
       "Faixa Elástica para Cotovelo de Compressão"
-    ]
-  },
-  {
-    "nome do produto": "Cotoveleira de Compressão",
-    "é kit": false,
-    "categoria do produto": "CINTAS E FITNESS",
-    "código do produto": "Q-2643",
-    "preço do produto": "R$ 9,00",
-    "titulos_otimizados_ia": [
-      "Cotoveleira de Compressão Esportiva",
-      "Cotoveleira de Compressão para Exercícios",
-      "Cotoveleira de Compressão Terapêutica"
     ]
   },
   {
@@ -5980,18 +4972,6 @@
     "é kit": false,
     "categoria do produto": "CINTAS E FITNESS",
     "código do produto": "Q-4539",
-    "preço do produto": "R$ 6,50",
-    "titulos_otimizados_ia": [
-      "Cronômetro Digital de Mão",
-      "Cronômetro Digital para Esportes",
-      "Cronômetro Digital Portátil"
-    ]
-  },
-  {
-    "nome do produto": "Cronômetro Digital",
-    "é kit": false,
-    "categoria do produto": "CINTAS E FITNESS",
-    "código do produto": "Q-4538",
     "preço do produto": "R$ 6,50",
     "titulos_otimizados_ia": [
       "Cronômetro Digital de Mão",
@@ -6399,18 +5379,6 @@
     "nome do produto": "Relógio Despertador Digital",
     "é kit": false,
     "categoria do produto": "RELÓGIOS",
-    "código do produto": "Q-4514",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Relógio Despertador Digital",
-      "Despertador Digital com Display",
-      "Relógio Despertador com Alarme"
-    ]
-  },
-  {
-    "nome do produto": "Relógio Despertador Digital",
-    "é kit": false,
-    "categoria do produto": "RELÓGIOS",
     "código do produto": "Q-4515",
     "preço do produto": "R$ 75,00",
     "titulos_otimizados_ia": [
@@ -6552,18 +5520,6 @@
     ]
   },
   {
-    "nome do produto": "Luminária de Madeira com Sensor de Movimento",
-    "é kit": false,
-    "categoria do produto": "ILUMINAÇÃO",
-    "código do produto": "Q-4324",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Luminária de Madeira com Sensor de Movimento",
-      "Luminária Noturna de Madeira com Sensor",
-      "Luminária de Parede de Madeira com Sensor"
-    ]
-  },
-  {
     "nome do produto": "Luz Noturna com Sensor de Movimento",
     "é kit": false,
     "categoria do produto": "ILUMINAÇÃO",
@@ -6585,18 +5541,6 @@
       "Lâmpada de Desinfecção UV para Banheiro",
       "Lâmpada UV Esterilizadora para Banheiro",
       "Lâmpada de Desinfecção UV"
-    ]
-  },
-  {
-    "nome do produto": "Luz Noturna com Sensor de Movimento",
-    "é kit": false,
-    "categoria do produto": "ILUMINAÇÃO",
-    "código do produto": "Q-3286",
-    "preço do produto": "R$ 14,00",
-    "titulos_otimizados_ia": [
-      "Luz Noturna com Sensor de Movimento",
-      "Luminária Noturna com Sensor de Presença",
-      "Luz de Sensor de Movimento"
     ]
   },
   {
@@ -6780,18 +5724,6 @@
     ]
   },
   {
-    "nome do produto": "Luminária de Mesa USB Touch Três Cores de Luz",
-    "é kit": false,
-    "categoria do produto": "ILUMINAÇÃO",
-    "código do produto": "Q-3972",
-    "preço do produto": "R$ 28,00",
-    "titulos_otimizados_ia": [
-      "Luminária de Mesa USB Touch 3 Cores de Luz",
-      "Luminária de Mesa com 3 Temperaturas de Cor e Touch USB",
-      "Luminária de Mesa LED USB Touch Ajustável"
-    ]
-  },
-  {
     "nome do produto": "Luminária Solar com Sensor de Iluminação",
     "é kit": false,
     "categoria do produto": "ILUMINAÇÃO",
@@ -6903,18 +5835,6 @@
     "nome do produto": "Luminária de Mesa",
     "é kit": false,
     "categoria do produto": "ILUMINAÇÃO",
-    "código do produto": "Q-4361",
-    "preço do produto": "R$ 28,50",
-    "titulos_otimizados_ia": [
-      "Luminária de Mesa Moderna",
-      "Luminária de Mesa Branca",
-      "Luminária de Mesa LED"
-    ]
-  },
-  {
-    "nome do produto": "Luminária de Mesa",
-    "é kit": false,
-    "categoria do produto": "ILUMINAÇÃO",
     "código do produto": "Q-4362",
     "preço do produto": "R$ 26,50",
     "titulos_otimizados_ia": [
@@ -7008,54 +5928,6 @@
     ]
   },
   {
-    "nome do produto": "Aromatizador de Ambientes",
-    "é kit": false,
-    "categoria do produto": "AROMATIZADORES & UMIDIFICADORES",
-    "código do produto": "KP-106",
-    "preço do produto": "R$ 65,00",
-    "titulos_otimizados_ia": [
-      "Aromatizador de Ambientes Decorativo",
-      "Difusor de Aromas com Design",
-      "Aromatizador de Ambientes com Detalhes"
-    ]
-  },
-  {
-    "nome do produto": "Aromatizador de Ambientes",
-    "é kit": false,
-    "categoria do produto": "AROMATIZADORES & UMIDIFICADORES",
-    "código do produto": "KP-2234",
-    "preço do produto": "R$ 65,00",
-    "titulos_otimizados_ia": [
-      "Aromatizador de Ambientes com Estrelas",
-      "Difusor de Aromas com Tema Estrelado",
-      "Aromatizador de Ambientes Decorativo Noturno"
-    ]
-  },
-  {
-    "nome do produto": "Aromatizador de Ambientes",
-    "é kit": false,
-    "categoria do produto": "AROMATIZADORES & UMIDIFICADORES",
-    "código do produto": "KP-1810",
-    "preço do produto": "R$ 65,00",
-    "titulos_otimizados_ia": [
-      "Aromatizador de Ambientes com Design de Madeira",
-      "Difusor de Aromas com Padrão de Madeira",
-      "Aromatizador de Ambientes Decorativo"
-    ]
-  },
-  {
-    "nome do produto": "Aromatizador de Ambientes",
-    "é kit": false,
-    "categoria do produto": "AROMATIZADORES & UMIDIFICADORES",
-    "código do produto": "KP-1840",
-    "preço do produto": "R$ 65,00",
-    "titulos_otimizados_ia": [
-      "Aromatizador de Ambientes com Design de Madeira",
-      "Difusor de Aromas com Padrão de Madeira",
-      "Aromatizador de Ambientes Decorativo"
-    ]
-  },
-  {
     "nome do produto": "Aromatizador Ultrassônico RGB com Temporizador USB",
     "é kit": false,
     "categoria do produto": "AROMATIZADORES & UMIDIFICADORES",
@@ -7065,18 +5937,6 @@
       "Aromatizador Ultrassônico RGB com Temporizador USB",
       "Difusor de Aromas Ultrassônico RGB com Timer USB",
       "Aromatizador de Ambientes RGB com Temporizador"
-    ]
-  },
-  {
-    "nome do produto": "Aromatizador de Ambientes",
-    "é kit": false,
-    "categoria do produto": "AROMATIZADORES & UMIDIFICADORES",
-    "código do produto": "KP-601",
-    "preço do produto": "R$ 65,00",
-    "titulos_otimizados_ia": [
-      "Aromatizador de Ambientes de Madeira",
-      "Difusor de Aromas de Madeira",
-      "Aromatizador de Ambientes Decorativo"
     ]
   },
   {
@@ -7335,67 +6195,7 @@
     "nome do produto": "Mini Aspirador de Pó Portátil",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3791",
-    "preço do produto": "R$ 102,00",
-    "titulos_otimizados_ia": [
-      "Mini Aspirador de Pó Portátil",
-      "Aspirador de Pó Compacto Portátil",
-      "Aspirador de Pó de Mão Recarregável"
-    ]
-  },
-  {
-    "nome do produto": "Mini Aspirador de Pó Portátil",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3301",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Mini Aspirador de Pó Portátil",
-      "Aspirador de Pó Compacto Portátil",
-      "Aspirador de Pó de Mão Recarregável"
-    ]
-  },
-  {
-    "nome do produto": "Mini Aspirador de Pó Portátil",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3063",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Mini Aspirador de Pó Portátil",
-      "Aspirador de Pó Compacto Portátil",
-      "Aspirador de Pó de Mão Recarregável"
-    ]
-  },
-  {
-    "nome do produto": "Mini Aspirador de Pó Portátil",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3532",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Mini Aspirador de Pó Portátil",
-      "Aspirador de Pó Compacto Portátil",
-      "Aspirador de Pó de Mão Recarregável"
-    ]
-  },
-  {
-    "nome do produto": "Mini Aspirador de Pó Portátil",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3232",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Mini Aspirador de Pó Portátil",
-      "Aspirador de Pó Compacto Portátil",
-      "Aspirador de Pó de Mão Recarregável"
-    ]
-  },
-  {
-    "nome do produto": "Mini Aspirador de Pó Portátil",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3533",
     "preço do produto": "Valor: R$ 0,00",
     "titulos_otimizados_ia": [
       "Mini Aspirador de Pó Portátil",
@@ -7452,34 +6252,10 @@
     ]
   },
   {
-    "nome do produto": "Aspirador de Pó",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3476-1",
-    "preço do produto": "R$ 92,00",
-    "titulos_otimizados_ia": [
-      "Aspirador de Pó Portátil",
-      "Aspirador de Pó Compacto",
-      "Aspirador de Pó Doméstico"
-    ]
-  },
-  {
     "nome do produto": "Filtro de Aspirador de Pó Portátil",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3216-2",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Filtro para Aspirador de Pó Portátil",
-      "Filtro de Reposição para Aspirador Portátil",
-      "Filtro de Aspirador Compacto"
-    ]
-  },
-  {
-    "nome do produto": "Filtro de Aspirador de Pó Portátil",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-2095-1",
     "preço do produto": "Valor: R$ 0,00",
     "titulos_otimizados_ia": [
       "Filtro para Aspirador de Pó Portátil",
@@ -7620,18 +6396,6 @@
     ]
   },
   {
-    "nome do produto": "Gancho Cabideiro",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-2715",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Gancho Cabideiro",
-      "Cabideiro com Ganchos",
-      "Gancho para Pendurar Roupas"
-    ]
-  },
-  {
     "nome do produto": "Protetores de Quina para Bebês",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
@@ -7648,18 +6412,6 @@
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-2062",
-    "preço do produto": "R$ 22,00",
-    "titulos_otimizados_ia": [
-      "Suporte de Vassouras Multiuso Plástico",
-      "Organizador de Vassouras e Rodos Plástico",
-      "Suporte para Vassouras e Utensílios"
-    ]
-  },
-  {
-    "nome do produto": "Suporte de Vassouras Multiuso Plástico",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3391",
     "preço do produto": "R$ 22,00",
     "titulos_otimizados_ia": [
       "Suporte de Vassouras Multiuso Plástico",
@@ -7695,18 +6447,6 @@
     "nome do produto": "Irrigador Oral Elétrico Recarregável",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3302",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Irrigador Oral Elétrico Recarregável",
-      "Irrigador Dental Elétrico Recarregável",
-      "Irrigador Bucal Elétrico Sem Fio"
-    ]
-  },
-  {
-    "nome do produto": "Irrigador Oral Elétrico Recarregável",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3080",
     "preço do produto": "R$ 100,00",
     "titulos_otimizados_ia": [
@@ -7721,18 +6461,6 @@
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3082",
     "preço do produto": "R$ 130,00",
-    "titulos_otimizados_ia": [
-      "Irrigador Oral Elétrico Recarregável",
-      "Irrigador Dental Elétrico Recarregável",
-      "Irrigador Bucal Elétrico Sem Fio"
-    ]
-  },
-  {
-    "nome do produto": "Irrigador Oral Elétrico Recarregável",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3801",
-    "preço do produto": "Valor: R$ 0,00",
     "titulos_otimizados_ia": [
       "Irrigador Oral Elétrico Recarregável",
       "Irrigador Dental Elétrico Recarregável",
@@ -7887,18 +6615,6 @@
     "nome do produto": "Colmeia Organizadora de Roupas para Gavetas",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-2956 G",
-    "preço do produto": "R$ 6,50",
-    "titulos_otimizados_ia": [
-      "Colmeia Organizadora de Roupas para Gavetas (11 Divisões)",
-      "Organizador de Gavetas em Colmeia para Roupas",
-      "Divisória de Gaveta para Roupas"
-    ]
-  },
-  {
-    "nome do produto": "Colmeia Organizadora de Roupas para Gavetas",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-2862",
     "preço do produto": "R$ 7,50",
     "titulos_otimizados_ia": [
@@ -7920,34 +6636,10 @@
     ]
   },
   {
-    "nome do produto": "Colmeia Organizadora de Roupas para Gavetas",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3180-1",
-    "preço do produto": "Valor: R$ 0,00",
-    "titulos_otimizados_ia": [
-      "Colmeia Organizadora de Roupas para Gavetas",
-      "Organizador de Gavetas em Colmeia para Roupas",
-      "Divisória de Gaveta para Roupas"
-    ]
-  },
-  {
     "nome do produto": "Colmeia Organizadora de Roupas para Gavetas com Zíper",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3672",
-    "preço do produto": "R$ 9,50",
-    "titulos_otimizados_ia": [
-      "Colmeia Organizadora de Roupas com Zíper",
-      "Organizador de Gavetas com Zíper para Roupas",
-      "Caixa Organizadora de Tecido com Zíper"
-    ]
-  },
-  {
-    "nome do produto": "Colmeia Organizadora de Roupas para Gavetas com Zíper",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3671",
     "preço do produto": "R$ 9,50",
     "titulos_otimizados_ia": [
       "Colmeia Organizadora de Roupas com Zíper",
@@ -8727,18 +7419,6 @@
     "nome do produto": "Calibrador de Pneus com Auxiliar de Partida",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3929",
-    "preço do produto": "R$ 225,00",
-    "titulos_otimizados_ia": [
-      "Calibrador de Pneus com Auxiliar de Partida Preto",
-      "Calibrador de Pneus com Auxiliar de Partida Digital",
-      "Calibrador de Pneus com Auxiliar de Partida Portátil"
-    ]
-  },
-  {
-    "nome do produto": "Calibrador de Pneus com Auxiliar de Partida",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3930",
     "preço do produto": "R$ 200,00",
     "titulos_otimizados_ia": [
@@ -8801,18 +7481,6 @@
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-2879",
     "preço do produto": "R$ 115,00",
-    "titulos_otimizados_ia": [
-      "Calibrador de Pneus Digital Preto",
-      "Calibrador de Pneus Portátil",
-      "Calibrador de Pneus com Manômetro"
-    ]
-  },
-  {
-    "nome do produto": "Calibrador de Pneus",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3330",
-    "preço do produto": "R$ 85,00",
     "titulos_otimizados_ia": [
       "Calibrador de Pneus Digital Preto",
       "Calibrador de Pneus Portátil",
@@ -9003,18 +7671,6 @@
     "nome do produto": "Tapete para Carro",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3920-2",
-    "preço do produto": "R$ 45,00",
-    "titulos_otimizados_ia": [
-      "Tapete para Carro Preto",
-      "Tapete para Carro Borracha",
-      "Tapete para Carro Antiderrapante"
-    ]
-  },
-  {
-    "nome do produto": "Tapete para Carro",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3921",
     "preço do produto": "R$ 68,00",
     "titulos_otimizados_ia": [
@@ -9041,18 +7697,6 @@
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3923",
     "preço do produto": "R$ 33,00",
-    "titulos_otimizados_ia": [
-      "Tapete para Carro Preto",
-      "Tapete para Carro Borracha",
-      "Tapete para Carro Antiderrapante"
-    ]
-  },
-  {
-    "nome do produto": "Tapete para Carro",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3924",
-    "preço do produto": "R$ 45,00",
     "titulos_otimizados_ia": [
       "Tapete para Carro Preto",
       "Tapete para Carro Borracha",
@@ -9555,18 +8199,6 @@
     "nome do produto": "Ventilador de Teto com Controle Remoto",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3803",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Ventilador de Teto com Controle Remoto 40w 42cm",
-      "Ventilador de Teto com Controle Remoto Branco",
-      "Ventilador de Teto com Controle Remoto Silencioso"
-    ]
-  },
-  {
-    "nome do produto": "Ventilador de Teto com Controle Remoto",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3804",
     "preço do produto": "R$ 50,00",
     "titulos_otimizados_ia": [
@@ -9663,18 +8295,6 @@
     "nome do produto": "Campainha Residencial Wireless",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3385",
-    "preço do produto": "R$ 21,00",
-    "titulos_otimizados_ia": [
-      "Campainha Residencial Wireless",
-      "Campainha Residencial Sem Fio",
-      "Campainha Residencial Digital"
-    ]
-  },
-  {
-    "nome do produto": "Campainha Residencial Wireless",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3414",
     "preço do produto": "R$ 20,00",
     "titulos_otimizados_ia": [
@@ -9688,18 +8308,6 @@
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3415",
-    "preço do produto": "R$ 19,50",
-    "titulos_otimizados_ia": [
-      "Campainha Residencial Wireless",
-      "Campainha Residencial Sem Fio",
-      "Campainha Residencial Digital"
-    ]
-  },
-  {
-    "nome do produto": "Campainha Residencial Wireless",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3416",
     "preço do produto": "R$ 19,50",
     "titulos_otimizados_ia": [
       "Campainha Residencial Wireless",
@@ -9900,30 +8508,6 @@
     ]
   },
   {
-    "nome do produto": "Capa para Cadeira (Cores Variadas)",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3525",
-    "preço do produto": "R$ 13,50",
-    "titulos_otimizados_ia": [
-      "Capa para Cadeira Estampada",
-      "Capa para Cadeira Elástica",
-      "Capa para Cadeira Decorativa"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Cadeira (Cores Variadas)",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3526",
-    "preço do produto": "R$ 13,50",
-    "titulos_otimizados_ia": [
-      "Capa para Cadeira Estampada",
-      "Capa para Cadeira Elástica",
-      "Capa para Cadeira Decorativa"
-    ]
-  },
-  {
     "nome do produto": "Capa para Cadeira",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
@@ -9939,34 +8523,10 @@
     "nome do produto": "Capa para Cadeira",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4030",
-    "preço do produto": "R$ 12,50",
-    "titulos_otimizados_ia": [
-      "Capa para Cadeira Cinza",
-      "Capa para Cadeira Estampada",
-      "Capa para Cadeira Elástica"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Cadeira",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-4031",
     "preço do produto": "R$ 13,50",
     "titulos_otimizados_ia": [
       "Capa para Cadeira Azul",
-      "Capa para Cadeira Estampada",
-      "Capa para Cadeira Elástica"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Cadeira",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4027",
-    "preço do produto": "R$ 12,50",
-    "titulos_otimizados_ia": [
-      "Capa para Cadeira Marrom",
       "Capa para Cadeira Estampada",
       "Capa para Cadeira Elástica"
     ]
@@ -10011,286 +8571,10 @@
     "nome do produto": "Capa para Sofá",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4035",
-    "preço do produto": "R$ 55,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 1 Assento Cinza",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4036",
-    "preço do produto": "R$ 62,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 2 Assentos Cinza",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4037",
-    "preço do produto": "R$ 68,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 3 Assentos Cinza",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4038",
-    "preço do produto": "R$ 55,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 1 Assento Azul",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4039",
-    "preço do produto": "R$ 62,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 2 Assentos Azul",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4040",
-    "preço do produto": "R$ 68,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 3 Assentos Azul",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4041",
-    "preço do produto": "R$ 55,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 1 Assento Marrom",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4042",
-    "preço do produto": "R$ 62,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 2 Assentos Marrom",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4043",
-    "preço do produto": "R$ 68,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 3 Assentos Marrom",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4044",
-    "preço do produto": "R$ 55,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 1 Assento Cinza Claro",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4045",
-    "preço do produto": "R$ 62,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 2 Assentos Cinza Claro",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4046",
-    "preço do produto": "R$ 68,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 3 Assentos Cinza Claro",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4047",
-    "preço do produto": "R$ 55,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 1 Assento Bege Claro",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4048",
-    "preço do produto": "R$ 62,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 2 Assentos Bege Claro",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4049",
-    "preço do produto": "R$ 68,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 3 Assentos Bege Claro",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4053",
-    "preço do produto": "R$ 55,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 1 Assento Cinza Escuro",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4054",
-    "preço do produto": "R$ 62,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 2 Assentos Cinza Escuro",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4055",
-    "preço do produto": "R$ 68,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 3 Assentos Cinza Escuro",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-4050",
     "preço do produto": "R$ 58,00",
     "titulos_otimizados_ia": [
       "Capa para Sofá 1 Assento Bege Mesclado",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4051",
-    "preço do produto": "R$ 62,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 2 Assentos Bege Mesclado",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4052",
-    "preço do produto": "R$ 68,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 3 Assentos Bege Mesclado",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4056",
-    "preço do produto": "R$ 58,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 1 Assento Laranja",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4057",
-    "preço do produto": "R$ 62,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 2 Assentos Laranja",
-      "Capa para Sofá Elástica",
-      "Capa para Sofá Estampada"
-    ]
-  },
-  {
-    "nome do produto": "Capa para Sofá",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4058",
-    "preço do produto": "R$ 68,00",
-    "titulos_otimizados_ia": [
-      "Capa para Sofá 3 Assentos Laranja",
       "Capa para Sofá Elástica",
       "Capa para Sofá Estampada"
     ]
@@ -10584,30 +8868,6 @@
     ]
   },
   {
-    "nome do produto": "Tapete Veludo Estampas Diversas 40cm x 60cm",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3960",
-    "preço do produto": "R$ 7,00",
-    "titulos_otimizados_ia": [
-      "Tapete Veludo Estampas Diversas 40cm x 60cm",
-      "Tapete Veludo Decorativo",
-      "Tapete Veludo Antiderrapante"
-    ]
-  },
-  {
-    "nome do produto": "Tapete Veludo Estampas Diversas 40cm x 60cm",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3961",
-    "preço do produto": "R$ 7,00",
-    "titulos_otimizados_ia": [
-      "Tapete Veludo Estampas Diversas 40cm x 60cm",
-      "Tapete Veludo Decorativo",
-      "Tapete Veludo Antiderrapante"
-    ]
-  },
-  {
     "nome do produto": "Tapete Veludo Estampas Diversas 50cm x 80cm",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
@@ -10692,18 +8952,6 @@
     ]
   },
   {
-    "nome do produto": "Extensão 5 Tomadas 3 Metros",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4138-1",
-    "preço do produto": "R$ 19,80",
-    "titulos_otimizados_ia": [
-      "Extensão 5 Tomadas 3 Metros Branca",
-      "Extensão 5 Tomadas Elétrica",
-      "Extensão 5 Tomadas com Proteção"
-    ]
-  },
-  {
     "nome do produto": "Extensão 5 Tomadas USB/USB-C 3 Metros",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
@@ -10711,18 +8959,6 @@
     "preço do produto": "R$ 22,00",
     "titulos_otimizados_ia": [
       "Extensão 5 Tomadas USB/USB-C 3 Metros Preta",
-      "Extensão 5 Tomadas USB/USB-C Elétrica",
-      "Extensão 5 Tomadas USB/USB-C com Proteção"
-    ]
-  },
-  {
-    "nome do produto": "Extensão 5 Tomadas USB/USB-C 3 Metros",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4139-1",
-    "preço do produto": "R$ 22,00",
-    "titulos_otimizados_ia": [
-      "Extensão 5 Tomadas USB/USB-C 3 Metros Branca",
       "Extensão 5 Tomadas USB/USB-C Elétrica",
       "Extensão 5 Tomadas USB/USB-C com Proteção"
     ]
@@ -10759,18 +8995,6 @@
     "preço do produto": "R$ 23,00",
     "titulos_otimizados_ia": [
       "Extensão 6 Tomadas 3 Metros Preta",
-      "Extensão 6 Tomadas Elétrica",
-      "Extensão 6 Tomadas com Proteção"
-    ]
-  },
-  {
-    "nome do produto": "Extensão 6 Tomadas 3 Metros",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4141-1",
-    "preço do produto": "R$ 23,00",
-    "titulos_otimizados_ia": [
-      "Extensão 6 Tomadas 3 Metros Branca",
       "Extensão 6 Tomadas Elétrica",
       "Extensão 6 Tomadas com Proteção"
     ]
@@ -10860,34 +9084,10 @@
     ]
   },
   {
-    "nome do produto": "Extensão com 8 Tomadas 2 USB 1 USB-C",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4174-1",
-    "preço do produto": "R$ 25,00",
-    "titulos_otimizados_ia": [
-      "Extensão com 8 Tomadas 2 USB 1 USB-C",
-      "Extensão Elétrica com USB",
-      "Extensão com Proteção"
-    ]
-  },
-  {
     "nome do produto": "Extensão com 4 Tomadas 2 USB 1 USB-C",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-4175",
-    "preço do produto": "R$ 25,00",
-    "titulos_otimizados_ia": [
-      "Extensão com 4 Tomadas 2 USB 1 USB-C",
-      "Extensão Elétrica com USB",
-      "Extensão com Proteção"
-    ]
-  },
-  {
-    "nome do produto": "Extensão com 4 Tomadas 2 USB 1 USB-C",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4175-1",
     "preço do produto": "R$ 25,00",
     "titulos_otimizados_ia": [
       "Extensão com 4 Tomadas 2 USB 1 USB-C",
@@ -11028,102 +9228,6 @@
     ]
   },
   {
-    "nome do produto": "Kit de Cestos de Armazenamento",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3858",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Kit de Cestos de Armazenamento Rattan",
-      "Kit de Cestos de Armazenamento Decorativo",
-      "Kit de Cestos de Armazenamento Retangular"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Cestos de Armazenamento",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3859",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Kit de Cestos de Armazenamento Rattan",
-      "Kit de Cestos de Armazenamento Decorativo",
-      "Kit de Cestos de Armazenamento Quadrado"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Cestos de Armazenamento",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3860",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Kit de Cestos de Armazenamento Rattan",
-      "Kit de Cestos de Armazenamento Decorativo",
-      "Kit de Cestos de Armazenamento Quadrado"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Cestos de Armazenamento",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3861",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Kit de Cestos de Armazenamento Rattan",
-      "Kit de Cestos de Armazenamento Decorativo",
-      "Kit de Cestos de Armazenamento Retangular"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Cestos de Armazenamento",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3862",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Kit de Cestos de Armazenamento Rattan",
-      "Kit de Cestos de Armazenamento Decorativo",
-      "Kit de Cestos de Armazenamento Retangular"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Cestos de Armazenamento",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3863",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Kit de Cestos de Armazenamento Rattan",
-      "Kit de Cestos de Armazenamento Decorativo",
-      "Kit de Cestos de Armazenamento Retangular"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Cestos de Armazenamento",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3864",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Kit de Cestos de Armazenamento Rattan",
-      "Kit de Cestos de Armazenamento Decorativo",
-      "Kit de Cestos de Armazenamento Quadrado"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Cestos de Armazenamento",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3866",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Kit de Cestos de Armazenamento Rattan",
-      "Kit de Cestos de Armazenamento Decorativo",
-      "Kit de Cestos de Armazenamento Retangular"
-    ]
-  },
-  {
     "nome do produto": "Cesto de Armazenamento 25x31x7",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
@@ -11160,18 +9264,6 @@
     ]
   },
   {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3872",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento Rattan",
-      "Cesto de Armazenamento Decorativo",
-      "Cesto de Armazenamento Quadrado"
-    ]
-  },
-  {
     "nome do produto": "Cesto de Armazenamento 25x18x8",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
@@ -11196,118 +9288,10 @@
     ]
   },
   {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3881",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento Rattan",
-      "Cesto de Armazenamento Decorativo",
-      "Cesto de Armazenamento Quadrado"
-    ]
-  },
-  {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3882",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento Rattan",
-      "Cesto de Armazenamento Decorativo",
-      "Cesto de Armazenamento Quadrado"
-    ]
-  },
-  {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3883",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento Rattan",
-      "Cesto de Armazenamento Decorativo",
-      "Cesto de Armazenamento Retangular"
-    ]
-  },
-  {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3884",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento Rattan",
-      "Cesto de Armazenamento Decorativo",
-      "Cesto de Armazenamento Retangular"
-    ]
-  },
-  {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3885",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento Rattan",
-      "Cesto de Armazenamento Decorativo",
-      "Cesto de Armazenamento Quadrado"
-    ]
-  },
-  {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3886",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento Rattan",
-      "Cesto de Armazenamento Decorativo",
-      "Cesto de Armazenamento Quadrado"
-    ]
-  },
-  {
-    "nome do produto": "Cesto de Armazenamento",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3888",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Cesto de Armazenamento Rattan",
-      "Cesto de Armazenamento Decorativo",
-      "Cesto de Armazenamento Cilíndrico"
-    ]
-  },
-  {
     "nome do produto": "Mesa de Centro Artesanal",
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3890",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Mesa de Centro Artesanal Rattan",
-      "Mesa de Centro Artesanal Redonda",
-      "Mesa de Centro Artesanal Decorativa"
-    ]
-  },
-  {
-    "nome do produto": "Mesa de Centro Artesanal",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3891",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Mesa de Centro Artesanal Rattan",
-      "Mesa de Centro Artesanal Redonda",
-      "Mesa de Centro Artesanal Decorativa"
-    ]
-  },
-  {
-    "nome do produto": "Mesa de Centro Artesanal",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3892",
     "preço do produto": "EM BREVE",
     "titulos_otimizados_ia": [
       "Mesa de Centro Artesanal Rattan",
@@ -11344,18 +9328,6 @@
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-3895",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Tapete 80x60 Rattan",
-      "Tapete 80x60 Oval",
-      "Tapete 80x60 Decorativo"
-    ]
-  },
-  {
-    "nome do produto": "Tapete 80x60",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-3896",
     "preço do produto": "EM BREVE",
     "titulos_otimizados_ia": [
       "Tapete 80x60 Rattan",
@@ -11416,54 +9388,6 @@
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-4355",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Fonte de Água Decorativa",
-      "Fonte de Água Interna",
-      "Fonte de Água com Iluminação"
-    ]
-  },
-  {
-    "nome do produto": "Fonte de Água",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4356",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Fonte de Água Decorativa",
-      "Fonte de Água Interna",
-      "Fonte de Água com Iluminação"
-    ]
-  },
-  {
-    "nome do produto": "Fonte de Água",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4357",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Fonte de Água Decorativa",
-      "Fonte de Água Interna",
-      "Fonte de Água com Iluminação"
-    ]
-  },
-  {
-    "nome do produto": "Fonte de Água",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4358",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Fonte de Água Decorativa",
-      "Fonte de Água Interna",
-      "Fonte de Água com Iluminação"
-    ]
-  },
-  {
-    "nome do produto": "Fonte de Água",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4359",
     "preço do produto": "ESGOTADO",
     "titulos_otimizados_ia": [
       "Fonte de Água Decorativa",
@@ -11547,71 +9471,11 @@
     "nome do produto": "Pano Flanelado Pacote com 5 Peças 30x30",
     "é kit": true,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4436",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Pano Flanelado Pacote com 5 Peças 30x30",
-      "Pano Flanelado Cinza",
-      "Pano Flanelado para Limpeza"
-    ]
-  },
-  {
-    "nome do produto": "Pano Flanelado Pacote com 5 Peças 30x30",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4437",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Pano Flanelado Pacote com 5 Peças 30x30",
-      "Pano Flanelado Azul Claro",
-      "Pano Flanelado para Limpeza"
-    ]
-  },
-  {
-    "nome do produto": "Pano Flanelado Pacote com 5 Peças 30x30",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4438",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Pano Flanelado Pacote com 5 Peças 30x30",
-      "Pano Flanelado Rosa Claro",
-      "Pano Flanelado para Limpeza"
-    ]
-  },
-  {
-    "nome do produto": "Pano Flanelado Pacote com 5 Peças 30x30",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-4439",
     "preço do produto": "R$ 6,50",
     "titulos_otimizados_ia": [
       "Pano Flanelado Pacote com 5 Peças 30x30",
       "Pano Flanelado Bege",
-      "Pano Flanelado para Limpeza"
-    ]
-  },
-  {
-    "nome do produto": "Pano Flanelado Pacote com 5 Peças 30x30",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4440",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Pano Flanelado Pacote com 5 Peças 30x30",
-      "Pano Flanelado Azul Marinho",
-      "Pano Flanelado para Limpeza"
-    ]
-  },
-  {
-    "nome do produto": "Pano Flanelado Pacote com 5 Peças 30x30",
-    "é kit": true,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4441",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Pano Flanelado Pacote com 5 Peças 30x30",
-      "Pano Flanelado Roxo",
       "Pano Flanelado para Limpeza"
     ]
   },
@@ -11680,18 +9544,6 @@
     "é kit": false,
     "categoria do produto": "ARTIGOS DOMÉSTICOS",
     "código do produto": "Q-4502",
-    "preço do produto": "R$ 14,50",
-    "titulos_otimizados_ia": [
-      "Dominó 8mm",
-      "Dominó Clássico",
-      "Dominó de Plástico"
-    ]
-  },
-  {
-    "nome do produto": "Dominó 8mm",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4503",
     "preço do produto": "R$ 14,50",
     "titulos_otimizados_ia": [
       "Dominó 8mm",
@@ -11937,18 +9789,6 @@
       "Roda Giratória de 3 polegadas com Rodízio",
       "Roda Giratória Laranja para Móveis Pesados",
       "Roda Giratória de Borracha de Alta Resistência"
-    ]
-  },
-  {
-    "nome do produto": "Roda Giratória com Trava 2\"",
-    "é kit": false,
-    "categoria do produto": "ARTIGOS DOMÉSTICOS",
-    "código do produto": "Q-4342",
-    "preço do produto": "R$ 5,20",
-    "titulos_otimizados_ia": [
-      "Roda Giratória com Trava de 2 polegadas",
-      "Roda Giratória Laranja com Sistema de Travamento",
-      "Roda Giratória de Borracha com Freio"
     ]
   },
   {
@@ -12388,18 +10228,6 @@
     "é kit": false,
     "categoria do produto": "FERRAMENTAS",
     "código do produto": "Q-4296",
-    "preço do produto": "Valor ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Chave de Boca Catraca",
-      "Chave de Boca com Mecanismo de Catraca",
-      "Chave de Boca para Aperto e Desaperto Rápido"
-    ]
-  },
-  {
-    "nome do produto": "Chave de Boca Catraca",
-    "é kit": false,
-    "categoria do produto": "FERRAMENTAS",
-    "código do produto": "Q-4297",
     "preço do produto": "Valor ESGOTADO",
     "titulos_otimizados_ia": [
       "Chave de Boca Catraca",
@@ -13224,18 +11052,6 @@
     ]
   },
   {
-    "nome do produto": "Cadeado com Alarme",
-    "é kit": false,
-    "categoria do produto": "FERRAMENTAS",
-    "código do produto": "Q-3332",
-    "preço do produto": "Valor ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Cadeado com Alarme Integrado",
-      "Cadeado de Segurança com Sirene",
-      "Cadeado com Sensor de Movimento"
-    ]
-  },
-  {
     "nome do produto": "Afiador de Broca Multiuso",
     "é kit": false,
     "categoria do produto": "FERRAMENTAS",
@@ -13632,18 +11448,6 @@
     ]
   },
   {
-    "nome do produto": "Esquadro Magnético para Solda 4 Polegadas",
-    "é kit": false,
-    "categoria do produto": "FERRAMENTAS",
-    "código do produto": "Q-4414",
-    "preço do produto": "R$ 9,00",
-    "titulos_otimizados_ia": [
-      "Esquadro Magnético para Solda 4 Polegadas",
-      "Esquadro Magnético para Soldagem",
-      "Esquadro Magnético com Ângulos de Solda"
-    ]
-  },
-  {
     "nome do produto": "Esquadro Magnético para Solda 5 Polegadas",
     "é kit": false,
     "categoria do produto": "FERRAMENTAS",
@@ -13737,30 +11541,6 @@
       "Macaco Articulado para Elevação",
       "Macaco Hidráulico Articulado",
       "Macaco Articulado Compacto"
-    ]
-  },
-  {
-    "nome do produto": "Macaco Hidráulico 3 Toneladas",
-    "é kit": false,
-    "categoria do produto": "FERRAMENTAS",
-    "código do produto": "Q-4428",
-    "preço do produto": "R$ 50,00",
-    "titulos_otimizados_ia": [
-      "Macaco Hidráulico 3 Toneladas",
-      "Macaco Automotivo Hidráulico",
-      "Macaco Hidráulico para Elevação de Veículos"
-    ]
-  },
-  {
-    "nome do produto": "Macaco Hidráulico 5 Toneladas",
-    "é kit": false,
-    "categoria do produto": "FERRAMENTAS",
-    "código do produto": "Q-4429",
-    "preço do produto": "R$ 55,00",
-    "titulos_otimizados_ia": [
-      "Macaco Hidráulico 5 Toneladas",
-      "Macaco Automotivo Hidráulico Reforçado",
-      "Macaco Hidráulico para Elevação Pesada"
     ]
   },
   {
@@ -13972,18 +11752,6 @@
     "é kit": true,
     "categoria do produto": "FERRAMENTAS",
     "código do produto": "Q-4383",
-    "preço do produto": "R$ 2,00",
-    "titulos_otimizados_ia": [
-      "Kit de Parafuso com Bucha",
-      "Conjunto de Parafusos e Buchas",
-      "Kit de Fixação com Parafusos e Buchas"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Parafuso com Bucha",
-    "é kit": true,
-    "categoria do produto": "FERRAMENTAS",
-    "código do produto": "Q-4384",
     "preço do produto": "R$ 2,00",
     "titulos_otimizados_ia": [
       "Kit de Parafuso com Bucha",
@@ -14272,18 +12040,6 @@
     "é kit": false,
     "categoria do produto": "FERRAMENTAS",
     "código do produto": "Q-4457",
-    "preço do produto": "R$ 28,00",
-    "titulos_otimizados_ia": [
-      "Desempenadeira de Aço Inox para Reboco",
-      "Desempenadeira Profissional de Aço Inoxidável",
-      "Desempenadeira Lisa para Acabamento"
-    ]
-  },
-  {
-    "nome do produto": "Desempenadeira de Aço Inox",
-    "é kit": false,
-    "categoria do produto": "FERRAMENTAS",
-    "código do produto": "Q-4458",
     "preço do produto": "R$ 28,00",
     "titulos_otimizados_ia": [
       "Desempenadeira de Aço Inox para Reboco",
@@ -14791,16 +12547,6 @@
     "nome do produto": "Kit de Banheiro 4 Peças",
     "é kit": true,
     "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3543",
-    "preço do produto": "R$ 75,00",
-    "titulos_otimizados_ia": [
-      "Kit de Banheiro 4 Peças Cerâmica Bege com Detalhes Vazados"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Banheiro 4 Peças",
-    "é kit": true,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
     "código do produto": "Q-3546",
     "preço do produto": "R$ 85,00",
     "titulos_otimizados_ia": [
@@ -14821,67 +12567,7 @@
     "nome do produto": "Kit de Banheiro 4 Peças",
     "é kit": true,
     "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3537",
-    "preço do produto": "R$ 75,00",
-    "titulos_otimizados_ia": [
-      "Kit de Banheiro 4 Peças Cerâmica Bege com Detalhes Vazados"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Banheiro 4 Peças",
-    "é kit": true,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3538",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Kit de Banheiro 4 Peças Cerâmica Bege com Padrão Geométrico"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Banheiro 4 Peças",
-    "é kit": true,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3539",
-    "preço do produto": "R$ 75,00",
-    "titulos_otimizados_ia": [
-      "Kit de Banheiro 4 Peças Cerâmica Bege com Detalhes Vazados"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Banheiro 4 Peças",
-    "é kit": true,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3540",
-    "preço do produto": "R$ 75,00",
-    "titulos_otimizados_ia": [
-      "Kit de Banheiro 4 Peças Cerâmica Bege com Padrão Geométrico"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Banheiro 4 Peças",
-    "é kit": true,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3541",
-    "preço do produto": "R$ 75,00",
-    "titulos_otimizados_ia": [
-      "Kit de Banheiro 4 Peças Cerâmica Bege com Detalhes Vazados"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Banheiro 4 Peças",
-    "é kit": true,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
     "código do produto": "Q-3506",
-    "preço do produto": "R$ 32,00",
-    "titulos_otimizados_ia": [
-      "Kit de Banheiro 4 Peças Cerâmica Bege Liso"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Banheiro 4 Peças",
-    "é kit": true,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3507",
     "preço do produto": "R$ 32,00",
     "titulos_otimizados_ia": [
       "Kit de Banheiro 4 Peças Cerâmica Bege Liso"
@@ -14895,16 +12581,6 @@
     "preço do produto": "R$ 43,00",
     "titulos_otimizados_ia": [
       "Kit de Banheiro 6 Peças Cerâmica Bege Liso"
-    ]
-  },
-  {
-    "nome do produto": "Kit de Banheiro 4 Peças",
-    "é kit": true,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3505",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Kit de Banheiro 4 Peças Cerâmica Bege Liso"
     ]
   },
   {
@@ -15238,36 +12914,6 @@
     ]
   },
   {
-    "nome do produto": "Cortina para Banheiro",
-    "é kit": false,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3975",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Cortina para Banheiro Bege com Estampa de Folhagens"
-    ]
-  },
-  {
-    "nome do produto": "Cortina para Banheiro",
-    "é kit": false,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3976",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Cortina para Banheiro Azul com Estampa de Conchas"
-    ]
-  },
-  {
-    "nome do produto": "Cortina para Banheiro",
-    "é kit": false,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-3977",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Cortina para Banheiro Bege com Estampa de Folhagens"
-    ]
-  },
-  {
     "nome do produto": "Suporte para Banheiro",
     "é kit": false,
     "categoria do produto": "BANHEIRO & TORNEIRAS",
@@ -15325,26 +12971,6 @@
     "preço do produto": "ESGOTADO",
     "titulos_otimizados_ia": [
       "Toalha de Banho 70x140 Rosa com Listras Brancas"
-    ]
-  },
-  {
-    "nome do produto": "Toalha de banho 70x140",
-    "é kit": false,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-4444",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Toalha de Banho 70x140 Azul com Listras Brancas"
-    ]
-  },
-  {
-    "nome do produto": "Toalha de Banho 70x140",
-    "é kit": false,
-    "categoria do produto": "BANHEIRO & TORNEIRAS",
-    "código do produto": "Q-4445",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Toalha de Banho 70x140 Verde com Listras Brancas"
     ]
   },
   {
@@ -15418,46 +13044,6 @@
     ]
   },
   {
-    "nome do produto": "Adesivo de Parede 45x500",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3621",
-    "preço do produto": "R$ 6,00",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 45x500 Marmorizado Branco e Cinza"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3375",
-    "preço do produto": "R$ 6,00",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 45x500",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3622",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 45x500 Madeira Escura"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 45x500",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3623",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 45x500 Marmorizado Branco e Cinza"
-    ]
-  },
-  {
     "nome do produto": "Adesivo de Parede 60x500",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
@@ -15488,16 +13074,6 @@
     ]
   },
   {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3600",
-    "preço do produto": "R$ 3,20",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Cinza Claro"
-    ]
-  },
-  {
     "nome do produto": "Adesivo de Parede 60x500",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
@@ -15508,16 +13084,6 @@
     ]
   },
   {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3372",
-    "preço do produto": "R$ 6,00",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Branco e Cinza"
-    ]
-  },
-  {
     "nome do produto": "Placa Adesiva de Parede 60x60",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
@@ -15525,26 +13091,6 @@
     "preço do produto": "ESGOTADO",
     "titulos_otimizados_ia": [
       "Placa Adesiva de Parede 60x60 Marmorizado Bege e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3374",
-    "preço do produto": "R$ 6,00",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3606",
-    "preço do produto": "R$ 6,00",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Cinza Escuro"
     ]
   },
   {
@@ -15568,26 +13114,6 @@
     ]
   },
   {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3605",
-    "preço do produto": "R$ 6,00",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Branco e Cinza"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x500",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3627",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x500 Madeira Escura"
-    ]
-  },
-  {
     "nome do produto": "Placa Adesiva de Parede 60x60",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
@@ -15595,86 +13121,6 @@
     "preço do produto": "R$ 6,00",
     "titulos_otimizados_ia": [
       "Placa Adesiva de Parede 60x60 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo para Chão 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3359",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo para Chão 60x60 Marmorizado Bege"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo para Chão 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3362",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo para Chão 60x60 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3348",
-    "preço do produto": "R$ 3,20",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Bege"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3379",
-    "preço do produto": "R$ 6,00",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Cinza Escuro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3347",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Branco e Cinza"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3345",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Branco e Cinza"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3346",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3342",
-    "preço do produto": "R$ 3,20",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Bege"
     ]
   },
   {
@@ -15688,66 +13134,6 @@
     ]
   },
   {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3376",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Bege e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3602",
-    "preço do produto": "R$ 6,00",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3601",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Dourado e Azul"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3603",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Verde e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 45x500",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3616",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 45x500 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 45x500",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3624",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 45x500 Marmorizado Branco e Cinza"
-    ]
-  },
-  {
     "nome do produto": "Adesivo de Parede 45x500",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
@@ -15758,80 +13144,10 @@
     ]
   },
   {
-    "nome do produto": "Adesivo de Parede 60x500",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3629",
-    "preço do produto": "R$ 8,00",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x500 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 45x500",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3620",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 45x500 Madeira Escura"
-    ]
-  },
-  {
     "nome do produto": "Tira Adesiva para Chão 15,2x91,5",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
     "código do produto": "Q-3364",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Tira Adesiva para Chão 15,2x91,5 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Tira Adesiva para Chão 15,2x91,5",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3363",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Tira Adesiva para Chão 15,2x91,5 Madeira Escura"
-    ]
-  },
-  {
-    "nome do produto": "Tira Adesiva para Chão 15,2x91,5",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3365",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Tira Adesiva para Chão 15,2x91,5 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Tira Adesiva para Chão 15,2x91,5",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3367",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Tira Adesiva para Chão 15,2x91,5 Marmorizado Bege"
-    ]
-  },
-  {
-    "nome do produto": "Tira Adesiva para Chão 15,2x91,5",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3366",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Tira Adesiva para Chão 15,2x91,5 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Tira Adesiva para Chão 15,2x91,5",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-3368",
     "preço do produto": "ESGOTADO",
     "titulos_otimizados_ia": [
       "Tira Adesiva para Chão 15,2x91,5 Madeira Clara"
@@ -15851,40 +13167,10 @@
     "nome do produto": "Adesivo de Piso 91,5x15",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4146",
-    "preço do produto": "R$ 3,20",
-    "titulos_otimizados_ia": [
-      "Adesivo de Piso 91,5x15 Marmorizado Preto e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Piso 91,5x15",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4147",
-    "preço do produto": "R$ 3,20",
-    "titulos_otimizados_ia": [
-      "Adesivo de Piso 91,5x15 Marmorizado Branco e Cinza"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Piso 91,5x15",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
     "código do produto": "Q-4148",
     "preço do produto": "ESGOTADO",
     "titulos_otimizados_ia": [
       "Adesivo de Piso 91,5x15 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Piso 91,5x15",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4149",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Piso 91,5x15 Marmorizado Branco e Cinza"
     ]
   },
   {
@@ -15898,96 +13184,6 @@
     ]
   },
   {
-    "nome do produto": "Adesivo para Piso 91,50x15",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4151",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo para Piso 91,50x15 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo para Piso 91,50x15",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4152",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo para Piso 91,50x15 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo para Piso 91,50x15",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4153",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo para Piso 91,50x15 Pedra Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4167",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Pedra Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4168",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Pedra Escura"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4159",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4160",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Madeira Escura"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4161",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4162",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Madeira Escura"
-    ]
-  },
-  {
     "nome do produto": "Adesivo de Parede 30x60",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
@@ -15995,36 +13191,6 @@
     "preço do produto": "R$ 6,50",
     "titulos_otimizados_ia": [
       "Adesivo de Parede 30x60 Pedra Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4164",
-    "preço do produto": "R$ 6,50",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Pedra Escura"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4165",
-    "preço do produto": "R$ 6,50",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Pedra Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4166",
-    "preço do produto": "R$ 6,50",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Pedra Escura"
     ]
   },
   {
@@ -16038,36 +13204,6 @@
     ]
   },
   {
-    "nome do produto": "Adesivo de Parede 168x24",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4177",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 168x24 Madeira Escura"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 168x24",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4178",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 168x24 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 168x24",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4179",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 168x24 Madeira Escura"
-    ]
-  },
-  {
     "nome do produto": "Adesivo de Parede 200x20",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
@@ -16075,36 +13211,6 @@
     "preço do produto": "EM BREVE",
     "titulos_otimizados_ia": [
       "Adesivo de Parede 200x20 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 200x20",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4181",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 200x20 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 200x20",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4182",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 200x20 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 200x20",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4183",
-    "preço do produto": "EM BREVE",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 200x20 Madeira Escura"
     ]
   },
   {
@@ -16121,38 +13227,8 @@
     "nome do produto": "Painel Ripado de PVC 290x15",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4185",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Painel Ripado de PVC 290x15 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Painel Ripado de PVC 290x15",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4186",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Painel Ripado de PVC 290x15 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Painel Ripado de PVC 290x15",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
     "código do produto": "Q-4187",
     "preço do produto": "R$ 38,00",
-    "titulos_otimizados_ia": [
-      "Painel Ripado de PVC 290x15 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Painel Ripado de PVC 290x15",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4188",
-    "preço do produto": "ESGOTADO",
     "titulos_otimizados_ia": [
       "Painel Ripado de PVC 290x15 Madeira Clara"
     ]
@@ -16178,116 +13254,6 @@
     ]
   },
   {
-    "nome do produto": "Adesivo de Parede Dourado Brilhante 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4245",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Dourado Brilhante Branco e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede com Detalhe Dourado Brilhante 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4247",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 com Detalhe Dourado Brilhante Azul e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4154",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Verde Musgo"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4155",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4156",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Verde Musgo"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4157",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Madeira Clara"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4158",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Madeira Escura"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede com Detalhe Dourado Brilhante 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4222",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 com Detalhe Dourado Brilhante Azul e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4220",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 60x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4224",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 60x60 Marmorizado Bege e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4225",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Preto e Branco"
-    ]
-  },
-  {
     "nome do produto": "Adesivo de Parede com Detalhe Dourado Brilhante 30x60",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
@@ -16308,26 +13274,6 @@
     ]
   },
   {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4228",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Azul e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede Dourado Brilhante 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4229",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Dourado Brilhante Bege e Dourado"
-    ]
-  },
-  {
     "nome do produto": "Adesivo de Parede com Detalhe Dourado Brilhante 30x60",
     "é kit": false,
     "categoria do produto": "PISO E PAREDE",
@@ -16338,110 +13284,10 @@
     ]
   },
   {
-    "nome do produto": "Adesivo de Parede com Detalhe Dourado Brilhante 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4231",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 com Detalhe Dourado Brilhante Azul e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede com Detalhe Dourado Brilhante 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4232",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 com Detalhe Dourado Brilhante Bege e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4233",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Branco e Cinza"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede com Detalhe Dourado Brilhante 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4234",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 com Detalhe Dourado Brilhante Azul e Verde"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4235",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Cinza Claro"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede com Detalhe Dourado Brilhante 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4236",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 com Detalhe Dourado Brilhante Bege e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede com Detalhe Dourado Brilhante 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4237",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 com Detalhe Dourado Brilhante Azul e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede com Detalhe Dourado Brilhante 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4238",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 com Detalhe Dourado Brilhante Bege e Dourado"
-    ]
-  },
-  {
-    "nome do produto": "Adesivo de Parede 30x60",
-    "é kit": false,
-    "categoria do produto": "PISO E PAREDE",
-    "código do produto": "Q-4239",
-    "preço do produto": "R$ 3,35",
-    "titulos_otimizados_ia": [
-      "Adesivo de Parede 30x60 Marmorizado Cinza Claro"
-    ]
-  },
-  {
     "nome do produto": "Lâmpada Camping Recarregável",
     "é kit": false,
     "categoria do produto": "LANTERNAS & ELETRÔNICOS",
     "código do produto": "Q-3285",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Lâmpada Camping Recarregável Preta e Amarela"
-    ]
-  },
-  {
-    "nome do produto": "Lâmpada Camping Recarregável",
-    "é kit": false,
-    "categoria do produto": "LANTERNAS & ELETRÔNICOS",
-    "código do produto": "Q-3283",
     "preço do produto": "ESGOTADO",
     "titulos_otimizados_ia": [
       "Lâmpada Camping Recarregável Preta e Amarela"
@@ -16468,16 +13314,6 @@
     ]
   },
   {
-    "nome do produto": "Luminária Solar com Sensor de Movimento",
-    "é kit": false,
-    "categoria do produto": "LANTERNAS & ELETRÔNICOS",
-    "código do produto": "Q-2835",
-    "preço do produto": "R$ 10,00",
-    "titulos_otimizados_ia": [
-      "Luminária Solar com Sensor de Movimento Preta"
-    ]
-  },
-  {
     "nome do produto": "Luminária Solar com Sensor de Iluminação",
     "é kit": false,
     "categoria do produto": "LANTERNAS & ELETRÔNICOS",
@@ -16492,16 +13328,6 @@
     "é kit": false,
     "categoria do produto": "LANTERNAS & ELETRÔNICOS",
     "código do produto": "Q-2931",
-    "preço do produto": "R$ 25,00",
-    "titulos_otimizados_ia": [
-      "Lâmpada Recarregável Solar Preta"
-    ]
-  },
-  {
-    "nome do produto": "Lâmpada Recarregável Solar",
-    "é kit": false,
-    "categoria do produto": "LANTERNAS & ELETRÔNICOS",
-    "código do produto": "Q-2929",
     "preço do produto": "R$ 25,00",
     "titulos_otimizados_ia": [
       "Lâmpada Recarregável Solar Preta"
@@ -16528,16 +13354,6 @@
     ]
   },
   {
-    "nome do produto": "Lâmpada Recarregável Solar",
-    "é kit": false,
-    "categoria do produto": "LANTERNAS & ELETRÔNICOS",
-    "código do produto": "Q-2932",
-    "preço do produto": "R$ 25,00",
-    "titulos_otimizados_ia": [
-      "Lâmpada Recarregável Solar Preta"
-    ]
-  },
-  {
     "nome do produto": "Lanterna LED com carregador USB e Abridor de Garrafa",
     "é kit": false,
     "categoria do produto": "LANTERNAS & ELETRÔNICOS",
@@ -16552,16 +13368,6 @@
     "é kit": false,
     "categoria do produto": "LANTERNAS & ELETRÔNICOS",
     "código do produto": "Q-3397",
-    "preço do produto": "R$ 55,00",
-    "titulos_otimizados_ia": [
-      "Lanterna Recarregável Solar, Power Bank e Caixa de Ferramentas Preta e Laranja"
-    ]
-  },
-  {
-    "nome do produto": "Lanterna Recarregável Solar, Power Bank e Caixa de Ferramentas",
-    "é kit": false,
-    "categoria do produto": "LANTERNAS & ELETRÔNICOS",
-    "código do produto": "Q-3398",
     "preço do produto": "R$ 55,00",
     "titulos_otimizados_ia": [
       "Lanterna Recarregável Solar, Power Bank e Caixa de Ferramentas Preta e Laranja"
@@ -16681,16 +13487,6 @@
     "nome do produto": "Lanterna Recarregável Solar e Power Bank",
     "é kit": false,
     "categoria do produto": "LANTERNAS & ELETRÔNICOS",
-    "código do produto": "Q-2760-1",
-    "preço do produto": "R$ 30,00",
-    "titulos_otimizados_ia": [
-      "Lanterna Recarregável Solar e Power Bank Preta e Laranja"
-    ]
-  },
-  {
-    "nome do produto": "Lanterna Recarregável Solar e Power Bank",
-    "é kit": false,
-    "categoria do produto": "LANTERNAS & ELETRÔNICOS",
     "código do produto": "Q-2761-1",
     "preço do produto": "R$ 45,00",
     "titulos_otimizados_ia": [
@@ -16722,16 +13518,6 @@
     "é kit": false,
     "categoria do produto": "LANTERNAS & ELETRÔNICOS",
     "código do produto": "Q-2935",
-    "preço do produto": "R$ 50,00",
-    "titulos_otimizados_ia": [
-      "Lanterna Recarregável Solar e Power Bank Preta e Laranja"
-    ]
-  },
-  {
-    "nome do produto": "Lanterna Recarregável Solar e Power Bank",
-    "é kit": false,
-    "categoria do produto": "LANTERNAS & ELETRÔNICOS",
-    "código do produto": "Q-2934",
     "preço do produto": "R$ 50,00",
     "titulos_otimizados_ia": [
       "Lanterna Recarregável Solar e Power Bank Preta e Laranja"
@@ -16808,16 +13594,6 @@
     ]
   },
   {
-    "nome do produto": "Lanterna Recarregável por Luz Solar com Power Bank",
-    "é kit": false,
-    "categoria do produto": "LANTERNAS & ELETRÔNICOS",
-    "código do produto": "Q-3400",
-    "preço do produto": "R$ 78,00",
-    "titulos_otimizados_ia": [
-      "Lanterna Recarregável por Luz Solar com Power Bank Preta"
-    ]
-  },
-  {
     "nome do produto": "Lanterna Recarregável",
     "é kit": false,
     "categoria do produto": "LANTERNAS & ELETRÔNICOS",
@@ -16852,16 +13628,6 @@
     "é kit": false,
     "categoria do produto": "LANTERNAS & ELETRÔNICOS",
     "código do produto": "Q-4095",
-    "preço do produto": "ESGOTADO",
-    "titulos_otimizados_ia": [
-      "Lâmpada com Carregamento Solar Branca"
-    ]
-  },
-  {
-    "nome do produto": "Lâmpada com Carregamento Solar",
-    "é kit": false,
-    "categoria do produto": "LANTERNAS & ELETRÔNICOS",
-    "código do produto": "Q-4096",
     "preço do produto": "ESGOTADO",
     "titulos_otimizados_ia": [
       "Lâmpada com Carregamento Solar Branca"
@@ -17158,16 +13924,6 @@
     ]
   },
   {
-    "nome do produto": "Fio de Luz 10m com Carregador Solar Sensor de Luminosidade",
-    "é kit": false,
-    "categoria do produto": "NATAL",
-    "código do produto": "Q-2736",
-    "preço do produto": "R$ 18,00",
-    "titulos_otimizados_ia": [
-      "Fio de Luz 10m com Carregador Solar e Sensor de Luminosidade"
-    ]
-  },
-  {
     "nome do produto": "Fio de Luz 10m com USB e Controle",
     "é kit": false,
     "categoria do produto": "NATAL",
@@ -17288,16 +14044,6 @@
     ]
   },
   {
-    "nome do produto": "Decoração Natalina 4cm x 276cm",
-    "é kit": false,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0032",
-    "preço do produto": "R$ 3,80",
-    "titulos_otimizados_ia": [
-      "Decoração Natalina Fita 4cm x 276cm"
-    ]
-  },
-  {
     "nome do produto": "Decoração Natalina 6cm 9 Peças",
     "é kit": true,
     "categoria do produto": "NATAL",
@@ -17305,36 +14051,6 @@
     "preço do produto": "R$ 900",
     "titulos_otimizados_ia": [
       "Kit Decoração Natalina 6cm com 9 Peças Vermelhas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm 9 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0036",
-    "preço do produto": "R$ 900",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 9 Peças Azuis"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm 9 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0035",
-    "preço do produto": "R$ 900",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 9 Peças Pratas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm 9 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0034",
-    "preço do produto": "R$ 900",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 9 Peças Douradas"
     ]
   },
   {
@@ -17348,76 +14064,6 @@
     ]
   },
   {
-    "nome do produto": "Decoração Natalina 8cm 8 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0038",
-    "preço do produto": "R$ 19,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 8 Peças Douradas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 8 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0039",
-    "preço do produto": "R$ 19,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 8 Peças Pratas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 8 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0040",
-    "preço do produto": "R$ 19,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 8 Peças Azuis"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 8 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0041",
-    "preço do produto": "R$ 19,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 8 Peças Vermelhas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 8 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0042",
-    "preço do produto": "R$ 19,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 8 Peças Douradas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 8 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0043",
-    "preço do produto": "R$ 19,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 8 Peças Pratas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 8 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0044",
-    "preço do produto": "R$ 19,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 8 Peças Azuis"
-    ]
-  },
-  {
     "nome do produto": "Decoração Natalina 6cm 20 Peças",
     "é kit": true,
     "categoria do produto": "NATAL",
@@ -17425,36 +14071,6 @@
     "preço do produto": "R$ 28,00",
     "titulos_otimizados_ia": [
       "Kit Decoração Natalina 6cm com 20 Peças Vermelhas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm 20 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0046",
-    "preço do produto": "R$ 28,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 20 Peças Douradas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm 20 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0047",
-    "preço do produto": "R$ 28,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 20 Peças Pratas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm 20 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0048",
-    "preço do produto": "R$ 28,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 20 Peças Rose"
     ]
   },
   {
@@ -17468,36 +14084,6 @@
     ]
   },
   {
-    "nome do produto": "Decoração Natalina 8cm 16 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0050",
-    "preço do produto": "R$ 40,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 16 Peças Douradas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 16 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0051",
-    "preço do produto": "R$ 40,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 16 Peças Pratas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 16 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0052",
-    "preço do produto": "R$ 40,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 16 Peças Rose"
-    ]
-  },
-  {
     "nome do produto": "Decoração Natalina 8cm 6 Peças",
     "é kit": true,
     "categoria do produto": "NATAL",
@@ -17505,36 +14091,6 @@
     "preço do produto": "R$ 16,00",
     "titulos_otimizados_ia": [
       "Kit Decoração Natalina 8cm com 6 Peças Vermelhas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 6 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0054",
-    "preço do produto": "R$ 16,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 6 Peças Douradas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 6 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0055",
-    "preço do produto": "R$ 16,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 6 Peças Pratas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 8cm 6 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0056",
-    "preço do produto": "R$ 16,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 8cm com 6 Peças Rose"
     ]
   },
   {
@@ -17548,46 +14104,6 @@
     ]
   },
   {
-    "nome do produto": "Decoração Natalina 6cm com 24 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0058",
-    "preço do produto": "R$ 30,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 24 Peças Rose"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm com 24 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0059",
-    "preço do produto": "R$ 30,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 24 Peças Pratas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm com 24 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0060",
-    "preço do produto": "R$ 30,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 24 Peças Douradas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm com 24 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0061",
-    "preço do produto": "R$ 30,00",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 24 Peças Lilás"
-    ]
-  },
-  {
     "nome do produto": "Decoração Natalina 6cm 12 Peças",
     "é kit": true,
     "categoria do produto": "NATAL",
@@ -17598,26 +14114,6 @@
     ]
   },
   {
-    "nome do produto": "Decoração Natalina 6cm 12 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0064",
-    "preço do produto": "R$ 22,50",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 12 Peças Lilás"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm 12 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0065",
-    "preço do produto": "R$ 22,50",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 12 Peças"
-    ]
-  },
-  {
     "nome do produto": "Decoração Natalina 6cm com 12 Peças",
     "é kit": true,
     "categoria do produto": "NATAL",
@@ -17625,66 +14121,6 @@
     "preço do produto": "R$ 22,50",
     "titulos_otimizados_ia": [
       "Kit Decoração Natalina 6cm com 12 Peças Vermelhas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm com 12 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0067",
-    "preço do produto": "R$ 22,50",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 12 Peças Douradas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm com 12 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0068",
-    "preço do produto": "R$ 22,50",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 12 Peças Rose"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm com 12 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0069",
-    "preço do produto": "R$ 22,50",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 12 Peças Pratas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm 12 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0070",
-    "preço do produto": "R$ 22,50",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 12 Peças Vermelhas"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm 12 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0071",
-    "preço do produto": "R$ 22,50",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 12 Peças Rose"
-    ]
-  },
-  {
-    "nome do produto": "Decoração Natalina 6cm 12 Peças",
-    "é kit": true,
-    "categoria do produto": "NATAL",
-    "código do produto": "SD-0072",
-    "preço do produto": "R$ 22,50",
-    "titulos_otimizados_ia": [
-      "Kit Decoração Natalina 6cm com 12 Peças Azuis"
     ]
   },
   {
@@ -17808,16 +14244,6 @@
     ]
   },
   {
-    "nome do produto": "Varal de Luzes 7,5m",
-    "é kit": false,
-    "categoria do produto": "NATAL",
-    "código do produto": "Q-4327",
-    "preço do produto": "R$ 23,00",
-    "titulos_otimizados_ia": [
-      "Varal de Luzes em Formato de Flor 7,5m"
-    ]
-  },
-  {
     "nome do produto": "Copo Limpador Limpa Patas de Cachorro de Silicone",
     "é kit": false,
     "categoria do produto": "ÁREA PET",
@@ -17918,16 +14344,6 @@
     ]
   },
   {
-    "nome do produto": "Kit de Tesouras de Tosa",
-    "é kit": true,
-    "categoria do produto": "ÁREA PET",
-    "código do produto": "Q-3084",
-    "preço do produto": "R$ 70,00",
-    "titulos_otimizados_ia": [
-      "Kit de Tesouras de Tosa para Pet com 5 Peças"
-    ]
-  },
-  {
     "nome do produto": "Kit Tesouras de Tosa",
     "é kit": true,
     "categoria do produto": "ÁREA PET",
@@ -18008,16 +14424,6 @@
     ]
   },
   {
-    "nome do produto": "Varinha Interativa para Gatos",
-    "é kit": false,
-    "categoria do produto": "ÁREA PET",
-    "código do produto": "Q-3691",
-    "preço do produto": "R$ 5,80",
-    "titulos_otimizados_ia": [
-      "Varinha Interativa para Gatos com Bola"
-    ]
-  },
-  {
     "nome do produto": "Brinquedo de Controle Remoto para Gato",
     "é kit": false,
     "categoria do produto": "ÁREA PET",
@@ -18045,26 +14451,6 @@
     "preço do produto": "R$ 2,80",
     "titulos_otimizados_ia": [
       "Bolinha de Sisal para Gatos"
-    ]
-  },
-  {
-    "nome do produto": "Bolinha de Sisal para Gatos",
-    "é kit": false,
-    "categoria do produto": "ÁREA PET",
-    "código do produto": "Q-3694",
-    "preço do produto": "R$ 2,80",
-    "titulos_otimizados_ia": [
-      "Bolinha de Sisal para Gatos"
-    ]
-  },
-  {
-    "nome do produto": "Brinquedo Interativo para Gatos",
-    "é kit": false,
-    "categoria do produto": "ÁREA PET",
-    "código do produto": "Q-3695",
-    "preço do produto": "R$ 2,80",
-    "titulos_otimizados_ia": [
-      "Brinquedo Interativo para Gatos com Pena"
     ]
   },
   {
@@ -18121,27 +14507,7 @@
     "nome do produto": "Mordedor para Cachorro",
     "é kit": false,
     "categoria do produto": "ÁREA PET",
-    "código do produto": "Q-3704",
-    "preço do produto": "R$ 6,80",
-    "titulos_otimizados_ia": [
-      "Mordedor para Cachorro Colorido com 3 Peças"
-    ]
-  },
-  {
-    "nome do produto": "Mordedor para Cachorro",
-    "é kit": false,
-    "categoria do produto": "ÁREA PET",
     "código do produto": "Q-3705",
-    "preço do produto": "R$ 4,80",
-    "titulos_otimizados_ia": [
-      "Mordedor para Cachorro Colorido com 3 Peças"
-    ]
-  },
-  {
-    "nome do produto": "Mordedor para Cachorro",
-    "é kit": false,
-    "categoria do produto": "ÁREA PET",
-    "código do produto": "Q-3706",
     "preço do produto": "R$ 4,80",
     "titulos_otimizados_ia": [
       "Mordedor para Cachorro Colorido com 3 Peças"
@@ -18331,40 +14697,10 @@
     "nome do produto": "Coleira com Sino",
     "é kit": false,
     "categoria do produto": "ÁREA PET",
-    "código do produto": "Q-3698",
-    "preço do produto": "R$ 2,80",
-    "titulos_otimizados_ia": [
-      "Coleira com Sino Colorida"
-    ]
-  },
-  {
-    "nome do produto": "Coleira com Sino",
-    "é kit": false,
-    "categoria do produto": "ÁREA PET",
-    "código do produto": "Q-3716",
-    "preço do produto": "R$ 1,30",
-    "titulos_otimizados_ia": [
-      "Coleira com Sino P"
-    ]
-  },
-  {
-    "nome do produto": "Coleira com Sino",
-    "é kit": false,
-    "categoria do produto": "ÁREA PET",
     "código do produto": "Q-3718",
     "preço do produto": "R$ 1,95",
     "titulos_otimizados_ia": [
       "Coleira com Sino M"
-    ]
-  },
-  {
-    "nome do produto": "Coleira com Sino",
-    "é kit": false,
-    "categoria do produto": "ÁREA PET",
-    "código do produto": "Q-3717",
-    "preço do produto": "R$ 1,95",
-    "titulos_otimizados_ia": [
-      "Coleira com Sino Colorida"
     ]
   },
   {

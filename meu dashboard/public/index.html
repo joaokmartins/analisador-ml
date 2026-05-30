@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard CFO - Análise por Categoria</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+    <nav class="bg-white shadow-sm border-b border-gray-200 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <i class="fas fa-rocket text-blue-600 text-2xl mr-3"></i>
+                    <span class="font-bold text-xl">Oráculo do Lucro</span>
+                </div>
+                <div class="flex items-center">
+                    <span id="last-update" class="text-sm text-gray-500">Carregando dados...</span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        
+        <div id="kpi-container" class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8"></div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
+            <div class="bg-white p-4 rounded-lg shadow-sm">
+                <canvas id="chartRoi"></canvas>
+            </div>
+            <div class="bg-white p-4 rounded-lg shadow-sm">
+                <canvas id="chartCategory"></canvas>
+            </div>
+        </div>
+
+        <div id="categories-container" class="space-y-12">
+            </div>
+
+    </main>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>

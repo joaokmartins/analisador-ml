@@ -1,0 +1,288 @@
+[
+  {
+    "sku": "Q-3241",
+    "produto": "Frasco de Silicone para Viagem",
+    "analise_financeira": {
+      "custo": 12.5,
+      "mediana_mercado": 34.99,
+      "lucro_liquido": "10.59",
+      "roi": "84.7%",
+      "validacao": "ALTA",
+      "status": "🔥 APROVADO"
+    },
+    "concorrentes": [
+      {
+        "posicao_google": 3,
+        "canal": "Pague Menos",
+        "titulo": "Kit Frascos de Silicone para Viagem 3 Unidades Océane",
+        "preco": 166.99,
+        "match_percent": "82%",
+        "match_raw": 0.8206459267429382,
+        "avaliacoes": 24
+      },
+      {
+        "posicao_google": 36,
+        "canal": "Amazon.com.br - Seller",
+        "titulo": "Kit de Frascos de Viagem em Silicone, 3 Peças, com Estojo Transparente",
+        "preco": 36.9,
+        "match_percent": "85%",
+        "match_raw": 0.8523139878450824,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 13,
+        "canal": "Miniso Brasil",
+        "titulo": "Frascos de viagem em silicone 40mL (formato de bala)",
+        "preco": 27.99,
+        "match_percent": "84%",
+        "match_raw": 0.8437473139539938,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 34,
+        "canal": "Miniso Brasil",
+        "titulo": "Frascos de Viagem de Silicone 75mL (Formato de Leque)",
+        "preco": 34.99,
+        "match_percent": "83%",
+        "match_raw": 0.8288207945921449,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 33,
+        "canal": "Amazon.com.br - Seller",
+        "titulo": "Kit de Frascos de Viagem em Silicone, 3 Peças, Cores Pastel, com Bolsa de Transporte (Cinza/Rosa/Verde)",
+        "preco": 19.9,
+        "match_percent": "82%",
+        "match_raw": 0.8237427017527073,
+        "avaliacoes": 0
+      }
+    ]
+  },
+  {
+    "sku": "Q-3586",
+    "produto": "Frasco de Silicone para Viagem",
+    "analise_financeira": {
+      "custo": 10,
+      "mediana_mercado": 31.490000000000002,
+      "lucro_liquido": "10.78",
+      "roi": "107.8%",
+      "validacao": "ALTA",
+      "status": "🔥 APROVADO"
+    },
+    "concorrentes": [
+      {
+        "posicao_google": 3,
+        "canal": "Pague Menos",
+        "titulo": "Kit Frascos de Silicone para Viagem 3 Unidades Océane",
+        "preco": 166.99,
+        "match_percent": "82%",
+        "match_raw": 0.8206459267429382,
+        "avaliacoes": 24
+      },
+      {
+        "posicao_google": 12,
+        "canal": "Miniso Brasil",
+        "titulo": "Frascos de viagem em silicone 40mL (formato de bala)",
+        "preco": 27.99,
+        "match_percent": "84%",
+        "match_raw": 0.8437473139539938,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 28,
+        "canal": "Miniso Brasil",
+        "titulo": "Frascos de Viagem de Silicone 75mL (Formato de Leque)",
+        "preco": 34.99,
+        "match_percent": "83%",
+        "match_raw": 0.8288207945921449,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 33,
+        "canal": "Amazon.com.br - Seller",
+        "titulo": "Kit de Frascos de Viagem em Silicone, 3 Peças, Cores Pastel, com Bolsa de Transporte (Cinza/Rosa/Verde)",
+        "preco": 19.9,
+        "match_percent": "82%",
+        "match_raw": 0.8237427017527073,
+        "avaliacoes": 0
+      }
+    ]
+  },
+  {
+    "sku": "Q-3394",
+    "produto": "Frasco de Silicone para Viagem",
+    "analise_financeira": {
+      "custo": 5,
+      "mediana_mercado": 31.490000000000002,
+      "lucro_liquido": "15.78",
+      "roi": "315.7%",
+      "validacao": "ALTA",
+      "status": "🔥 APROVADO"
+    },
+    "concorrentes": [
+      {
+        "posicao_google": 3,
+        "canal": "Pague Menos",
+        "titulo": "Kit Frascos de Silicone para Viagem 3 Unidades Océane",
+        "preco": 166.99,
+        "match_percent": "82%",
+        "match_raw": 0.8206459267429382,
+        "avaliacoes": 24
+      },
+      {
+        "posicao_google": 11,
+        "canal": "Miniso Brasil",
+        "titulo": "Frascos de viagem em silicone 40mL (formato de bala)",
+        "preco": 27.99,
+        "match_percent": "84%",
+        "match_raw": 0.8437473139539938,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 36,
+        "canal": "Miniso Brasil",
+        "titulo": "Frascos de Viagem de Silicone 75mL (Formato de Leque)",
+        "preco": 34.99,
+        "match_percent": "83%",
+        "match_raw": 0.8288207945921449,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 24,
+        "canal": "Amazon.com.br - Seller",
+        "titulo": "Kit de Frascos de Viagem em Silicone, 3 Peças, Cores Pastel, com Bolsa de Transporte (Cinza/Rosa/Verde)",
+        "preco": 19.9,
+        "match_percent": "82%",
+        "match_raw": 0.8237427017527073,
+        "avaliacoes": 0
+      }
+    ]
+  },
+  {
+    "sku": "Q-1573",
+    "produto": "Dispenser para Viagem",
+    "analise_financeira": {
+      "custo": 9.5,
+      "mediana_mercado": 34.315,
+      "lucro_liquido": "13.15",
+      "roi": "138.4%",
+      "validacao": "BAIXA",
+      "status": "🔥 APROVADO"
+    },
+    "concorrentes": [
+      {
+        "posicao_google": 36,
+        "canal": "Mercado Livre",
+        "titulo": "Conjunto Dispensadores Silicone Portáteis Para Viagem",
+        "preco": 39.54,
+        "match_percent": "86%",
+        "match_raw": 0.8649890730217474,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 1,
+        "canal": "Mercado Livre",
+        "titulo": "Conjunto De Dispensador De Viagem De Silicone De 17 Unidades",
+        "preco": 31.74,
+        "match_percent": "84%",
+        "match_raw": 0.8407903809183213,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 33,
+        "canal": "Mercado Livre",
+        "titulo": "Dispensador De Sabonete Líquido De Silicone, Recarregável",
+        "preco": 146.6,
+        "match_percent": "84%",
+        "match_raw": 0.8406656134902648,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 4,
+        "canal": "mercadolivre.com.br",
+        "titulo": "Conjunto De Dispensador De Viagem De Silicone De 4 Unidades/",
+        "preco": 30.99,
+        "match_percent": "83%",
+        "match_raw": 0.8328354100248365,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 3,
+        "canal": "Shopee",
+        "titulo": "Garrafas Dispensadoras De Silicone , Fáceis De Transportar , Loção De Apertar , Recipiente De Cosméticos Para Viagens De",
+        "preco": 36.4,
+        "match_percent": "83%",
+        "match_raw": 0.8325305911226923,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 22,
+        "canal": "Mercado Livre",
+        "titulo": "Frascos De Viagem De Silicone, Recipientes Dispensadores De",
+        "preco": 32.23,
+        "match_percent": "83%",
+        "match_raw": 0.827720124733759,
+        "avaliacoes": 0
+      }
+    ]
+  },
+  {
+    "sku": "Q-2280",
+    "produto": "Lixa de Unhas Elétrica de 4 Pontas",
+    "analise_financeira": {
+      "custo": 11.5,
+      "mediana_mercado": 61.76,
+      "lucro_liquido": "29.26",
+      "roi": "254.4%",
+      "validacao": "ALTA",
+      "status": "🔥 APROVADO"
+    },
+    "concorrentes": [
+      {
+        "posicao_google": 21,
+        "canal": "Drogarias Pacheco",
+        "titulo": "Lixa de Unhas Elétrico Cinza e Branco Clingo",
+        "preco": 122.88,
+        "match_percent": "84%",
+        "match_raw": 0.8425670126852065,
+        "avaliacoes": 6
+      },
+      {
+        "posicao_google": 33,
+        "canal": "Amazon.com.br - Seller",
+        "titulo": "Lixa de Unhas Pimpolho Elétrica",
+        "preco": 49,
+        "match_percent": "86%",
+        "match_raw": 0.8605376797739506,
+        "avaliacoes": 4
+      },
+      {
+        "posicao_google": 2,
+        "canal": "Mercado Livre",
+        "titulo": "Lixa De Unhas Elétrica Profissional Com Luz, Compacta,",
+        "preco": 61.76,
+        "match_percent": "87%",
+        "match_raw": 0.8653836216360381,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 13,
+        "canal": "Mercado Livre",
+        "titulo": "Lixa De Unhas Elétrica Profissional Com Luz, Compacta,",
+        "preco": 61.76,
+        "match_percent": "87%",
+        "match_raw": 0.8653836216360381,
+        "avaliacoes": 0
+      },
+      {
+        "posicao_google": 9,
+        "canal": "mercadolivre.com.br",
+        "titulo": "Lixa De Unhas Elétrica Sem Fio Para Unhas Acrílicas Compacta",
+        "preco": 194.61,
+        "match_percent": "85%",
+        "match_raw": 0.8454088669130573,
+        "avaliacoes": 0
+      }
+    ]
+  }
+]

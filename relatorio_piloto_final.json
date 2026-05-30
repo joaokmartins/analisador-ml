@@ -1,0 +1,225 @@
+[
+  {
+    "produto": {
+      "nome do produto": "Frasco de Silicone para Viagem",
+      "é kit": false,
+      "categoria do produto": "SAÚDE E BELEZA",
+      "código do produto": "Q-3241",
+      "preço do produto": "R$ 12,50",
+      "titulos_otimizados_ia": [
+        "Frasco de Silicone Flexível para Viagem",
+        "Frasco de Silicone Transparente para Viagem",
+        "Frasco de Silicone Colorido para Viagem"
+      ]
+    },
+    "status": "Margem 80%",
+    "concorrentes": [
+      {
+        "titulo": "Frascos De Viagem Flexíveis De Silicone, Recipientes",
+        "preco": 42.77,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:17710410304715946312,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "89%"
+      },
+      {
+        "titulo": "Kit Frascos de Silicone para Viagem 3 Unidades Océane",
+        "preco": 166.99,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,catalogid:13378235268315170059,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "82%"
+      },
+      {
+        "titulo": "Frascos de viagem em silicone 40mL (formato de bala)",
+        "preco": 27.99,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:4173119375531404378,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "84%"
+      },
+      {
+        "titulo": "Kit Frascos de Silicone 4 Unidades Para Viagem Higiene e Beleza",
+        "preco": 26.5,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:1202051341695729611,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "82%"
+      },
+      {
+        "titulo": "Frascos De Silicone Reutilizáveis Para Viagem",
+        "preco": 44.33,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:7379396143003084426,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "90%"
+      }
+    ]
+  },
+  {
+    "produto": {
+      "nome do produto": "Frasco de Silicone para Viagem",
+      "é kit": false,
+      "categoria do produto": "SAÚDE E BELEZA",
+      "código do produto": "Q-3586",
+      "preço do produto": "R$ 10,00",
+      "titulos_otimizados_ia": [
+        "Frasco de Silicone Flexível para Viagem",
+        "Frasco de Silicone Transparente para Viagem",
+        "Frasco de Silicone Colorido para Viagem"
+      ]
+    },
+    "status": "Margem 84%",
+    "concorrentes": [
+      {
+        "titulo": "Kit Frascos de Silicone para Viagem 3 Unidades Océane",
+        "preco": 166.99,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,catalogid:13378235268315170059,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "82%"
+      },
+      {
+        "titulo": "Frascos de viagem em silicone 40mL (formato de bala)",
+        "preco": 27.99,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:4173119375531404378,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "84%"
+      },
+      {
+        "titulo": "Frascos de Viagem de Silicone 75mL (Formato de Leque)",
+        "preco": 34.99,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:5990847709008120067,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "83%"
+      },
+      {
+        "titulo": "Kit de Frascos de Viagem em Silicone, 3 Peças, Cores Pastel, com Bolsa de Transporte (Cinza/Rosa/Verde)",
+        "preco": 19.9,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:5908690230453708711,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "82%"
+      }
+    ]
+  },
+  {
+    "produto": {
+      "nome do produto": "Frasco de Silicone para Viagem",
+      "é kit": false,
+      "categoria do produto": "SAÚDE E BELEZA",
+      "código do produto": "Q-3394",
+      "preço do produto": "R$ 5,00",
+      "titulos_otimizados_ia": [
+        "Frasco de Silicone Flexível para Viagem",
+        "Frasco de Silicone Transparente para Viagem",
+        "Frasco de Silicone Colorido para Viagem"
+      ]
+    },
+    "status": "Margem 91%",
+    "concorrentes": [
+      {
+        "titulo": "Kit Frascos de Silicone para Viagem 3 Unidades Océane",
+        "preco": 166.99,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,catalogid:13378235268315170059,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "82%"
+      },
+      {
+        "titulo": "Frascos de viagem em silicone 40mL (formato de bala)",
+        "preco": 27.99,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:4173119375531404378,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "84%"
+      },
+      {
+        "titulo": "Frascos de Viagem de Silicone 75mL (Formato de Leque)",
+        "preco": 34.99,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:5990847709008120067,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "83%"
+      },
+      {
+        "titulo": "Kit de Frascos de Viagem em Silicone, 3 Peças, Cores Pastel, com Bolsa de Transporte (Cinza/Rosa/Verde)",
+        "preco": 19.9,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:5908690230453708711,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "82%"
+      },
+      {
+        "titulo": "Kit de Frascos de Viagem em Silicone, 3 Peças, com Estojo Transparente",
+        "preco": 36.9,
+        "link": "https://www.google.com/search?ibp=oshop&q=Frasco de Silicone Flexível para Viagem&prds=localAnnotatedOfferId:1,productid:15278148833321700903,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "85%"
+      }
+    ]
+  },
+  {
+    "produto": {
+      "nome do produto": "Dispenser para Viagem",
+      "é kit": false,
+      "categoria do produto": "SAÚDE E BELEZA",
+      "código do produto": "Q-1573",
+      "preço do produto": "R$ 9,50",
+      "titulos_otimizados_ia": [
+        "Dispenser de Silicone para Viagem",
+        "Dispenser de Silicone Colorido para Viagem",
+        "Dispenser de Silicone com Tampa para Viagem"
+      ]
+    },
+    "status": "Margem 83%",
+    "concorrentes": [
+      {
+        "titulo": "Conjunto De Dispensador De Viagem De Silicone De 17 Unidades",
+        "preco": 31.74,
+        "link": "https://www.google.com/search?ibp=oshop&q=Dispenser de Silicone para Viagem&prds=localAnnotatedOfferId:1,productid:9176727196803370372,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "84%"
+      },
+      {
+        "titulo": "Garrafas Dispensadoras De Silicone , Fáceis De Transportar , Loção De Apertar , Recipiente De Cosméticos Para Viagens De",
+        "preco": 36.4,
+        "link": "https://www.google.com/search?ibp=oshop&q=Dispenser de Silicone para Viagem&prds=localAnnotatedOfferId:1,productid:9709180062418627896,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "83%"
+      },
+      {
+        "titulo": "Conjunto De Dispensador De Viagem De Silicone De 4 Unidades/",
+        "preco": 31.11,
+        "link": "https://www.google.com/search?ibp=oshop&q=Dispenser de Silicone para Viagem&prds=localAnnotatedOfferId:1,productid:14675282227621569279,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "83%"
+      },
+      {
+        "titulo": "Dispensador De Sabonete Líquido De Silicone, Recarregável",
+        "preco": 146.6,
+        "link": "https://www.google.com/search?ibp=oshop&q=Dispenser de Silicone para Viagem&prds=localAnnotatedOfferId:1,productid:2983344223561504806,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "84%"
+      },
+      {
+        "titulo": "Conjunto Dispensadores Silicone Portáteis Para Viagem",
+        "preco": 39.54,
+        "link": "https://www.google.com/search?ibp=oshop&q=Dispenser de Silicone para Viagem&prds=localAnnotatedOfferId:1,productid:5496669588368144335,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "86%"
+      }
+    ]
+  },
+  {
+    "produto": {
+      "nome do produto": "Lixa de Unhas Elétrica de 4 Pontas",
+      "é kit": false,
+      "categoria do produto": "SAÚDE E BELEZA",
+      "código do produto": "Q-2280",
+      "preço do produto": "R$ 11,50",
+      "titulos_otimizados_ia": [
+        "Lixa de Unhas Elétrica Compacta",
+        "Lixa de Unhas Elétrica Portátil",
+        "Lixa de Unhas Elétrica com 4 Pontas"
+      ]
+    },
+    "status": "Margem 89%",
+    "concorrentes": [
+      {
+        "titulo": "Lixa De Unhas Elétrica Profissional Com Luz, Compacta,",
+        "preco": 61.76,
+        "link": "https://www.google.com/search?ibp=oshop&q=Lixa de Unhas Elétrica Compacta&prds=localAnnotatedOfferId:1,productid:12399890184786318301,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "87%"
+      },
+      {
+        "titulo": "Lixa de Unhas Elétrico Cinza e Branco Clingo",
+        "preco": 122.88,
+        "link": "https://www.google.com/search?ibp=oshop&q=Lixa de Unhas Elétrica Compacta&prds=localAnnotatedOfferId:1,productid:1375541653663599590,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "84%"
+      },
+      {
+        "titulo": "Lixa De Unhas Elétrica Sem Fio Para Unhas Acrílicas Compacta",
+        "preco": 194.61,
+        "link": "https://www.google.com/search?ibp=oshop&q=Lixa de Unhas Elétrica Compacta&prds=localAnnotatedOfferId:1,productid:9956167014371843824,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "85%"
+      },
+      {
+        "titulo": "Lixa de Unhas Pimpolho Elétrica",
+        "preco": 49,
+        "link": "https://www.google.com/search?ibp=oshop&q=Lixa de Unhas Elétrica Compacta&prds=localAnnotatedOfferId:1,catalogid:10387757695650323635,pvo:2,pvt:hg,rds:PC_6027158597472037202%7CPROD_PC_6027158597472037202&gl=br&udm=28&pvorigin=2",
+        "match": "86%"
+      }
+    ]
+  }
+]
